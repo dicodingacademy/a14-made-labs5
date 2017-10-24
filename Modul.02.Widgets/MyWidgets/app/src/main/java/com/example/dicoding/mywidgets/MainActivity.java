@@ -44,8 +44,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 
-    private static int jobId = 100;
-    private static int PERIODE_SCHEDULER = 86000;
+    final int jobId = 100;
+    final int PERIODE_SCHEDULER = 86000;
 
     private void startJob(){
         ComponentName mServiceComponent = new ComponentName(this, UpdateWidgetService.class);
