@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_reply_black_24px.png",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_reply_black_24px.png"
+    },
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_send_white_48px.png",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_send_white_48px.png"
+    },
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_white_48px.png",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_white_48px.png"
+    },
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_send_black_24px.png",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_send_black_24px.png"
+    }
+]

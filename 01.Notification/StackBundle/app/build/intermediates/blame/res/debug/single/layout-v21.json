@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\StackBundle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
