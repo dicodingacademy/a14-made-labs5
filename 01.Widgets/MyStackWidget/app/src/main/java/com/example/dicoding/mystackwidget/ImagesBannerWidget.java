@@ -17,6 +17,9 @@ public class ImagesBannerWidget extends AppWidgetProvider {
     public static final String TOAST_ACTION = "com.example.dicoding.TOAST_ACTION";
     public static final String EXTRA_ITEM = "com.example.dicoding.EXTRA_ITEM";
 
+    /*
+    Update widget berdasarkan id widget-nya di home screen
+     */
     static void updateAppWidget(Context context, AppWidgetManager appWidgetManager,
                                 int appWidgetId) {
 
@@ -45,6 +48,9 @@ public class ImagesBannerWidget extends AppWidgetProvider {
         appWidgetManager.updateAppWidget(appWidgetId, views);
     }
 
+    /*
+    Update widget
+     */
     @Override
     public void onUpdate(Context context, AppWidgetManager appWidgetManager, int[] appWidgetIds) {
         // There may be multiple widgets active, so update all of them
@@ -63,6 +69,9 @@ public class ImagesBannerWidget extends AppWidgetProvider {
         // Enter relevant functionality for when the last widget is disabled
     }
 
+    /*
+    Gunakan onReceive untuk menerima broadcast
+     */
     @Override
     public void onReceive(Context context, Intent intent) {
         AppWidgetManager mgr = AppWidgetManager.getInstance(context);
