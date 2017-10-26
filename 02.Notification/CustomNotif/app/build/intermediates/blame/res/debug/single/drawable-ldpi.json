@@ -1,18 +1,18 @@
 [
     {
-        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_send_black_24px.png",
-        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send_black_24px.png"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_reply_black_24px.png",
+        "source": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_reply_black_24px.png"
     },
     {
-        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_send_white_48px.png",
-        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send_white_48px.png"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_send_black_24px.png",
+        "source": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send_black_24px.png"
     },
     {
-        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_reply_black_24px.png",
-        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_reply_black_24px.png"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_send_white_48px.png",
+        "source": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_send_white_48px.png"
     },
     {
-        "merged": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_notifications_white_48px.png",
-        "source": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_white_48px.png"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_notifications_white_48px.png",
+        "source": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_white_48px.png"
     }
 ]

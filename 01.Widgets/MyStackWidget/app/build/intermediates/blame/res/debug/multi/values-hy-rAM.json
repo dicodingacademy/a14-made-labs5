@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "outputFile": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 153
                 },
                 "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,411 +87,7 @@
                     "endOffset": 595
                 },
                 "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 490,
-                        "endColumn": 109,
-                        "endOffset": 595
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 600,
-                    "endColumn": 89,
-                    "endOffset": 685
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 600,
-                        "endColumn": 89,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 690,
-                    "endColumn": 105,
-                    "endOffset": 791
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 105,
-                        "endOffset": 791
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 796,
-                    "endColumn": 114,
-                    "endOffset": 906
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 796,
-                        "endColumn": 114,
-                        "endOffset": 906
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 911,
-                    "endColumn": 81,
-                    "endOffset": 988
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 911,
-                        "endColumn": 81,
-                        "endOffset": 988
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 993,
-                    "endColumn": 80,
-                    "endOffset": 1069
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 993,
-                        "endColumn": 80,
-                        "endOffset": 1069
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1074,
-                    "endColumn": 84,
-                    "endOffset": 1154
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1074,
-                        "endColumn": 84,
-                        "endOffset": 1154
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1159,
-                    "endColumn": 106,
-                    "endOffset": 1261
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1159,
-                        "endColumn": 106,
-                        "endOffset": 1261
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1266,
-                    "endColumn": 106,
-                    "endOffset": 1368
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1266,
-                        "endColumn": 106,
-                        "endOffset": 1368
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1373,
-                    "endColumn": 98,
-                    "endOffset": 1467
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1373,
-                        "endColumn": 98,
-                        "endOffset": 1467
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1472,
-                    "endColumn": 109,
-                    "endOffset": 1577
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1472,
-                        "endColumn": 109,
-                        "endOffset": 1577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1582,
-                    "endColumn": 106,
-                    "endOffset": 1684
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1582,
-                        "endColumn": 106,
-                        "endOffset": 1684
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1689,
-                    "endColumn": 99,
-                    "endOffset": 1784
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1689,
-                        "endColumn": 99,
-                        "endOffset": 1784
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1789,
-                    "endColumn": 124,
-                    "endOffset": 1909
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1789,
-                        "endColumn": 124,
-                        "endOffset": 1909
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1914,
-                    "endColumn": 98,
-                    "endOffset": 2008
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1914,
-                        "endColumn": 98,
-                        "endOffset": 2008
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2013,
-                    "endColumn": 81,
-                    "endOffset": 2090
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2013,
-                        "endColumn": 81,
-                        "endOffset": 2090
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2095,
-                    "endColumn": 100,
-                    "endOffset": 2191
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2095,
-                        "endColumn": 100,
-                        "endOffset": 2191
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 102,
-                    "endOffset": 153
-                },
-                "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 102,
-                        "endOffset": 153
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 158,
-                    "endColumn": 107,
-                    "endOffset": 261
-                },
-                "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 158,
-                        "endColumn": 107,
-                        "endOffset": 261
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 266,
-                    "endColumn": 122,
-                    "endOffset": 384
-                },
-                "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 266,
-                        "endColumn": 122,
-                        "endOffset": 384
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 389,
-                    "endColumn": 100,
-                    "endOffset": 485
-                },
-                "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 389,
-                        "endColumn": 100,
-                        "endOffset": 485
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 490,
-                    "endColumn": 109,
-                    "endOffset": 595
-                },
-                "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -510,7 +106,7 @@
                     "endOffset": 684
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -529,7 +125,7 @@
                     "endOffset": 790
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -548,7 +144,7 @@
                     "endOffset": 905
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -567,7 +163,7 @@
                     "endOffset": 987
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -586,7 +182,7 @@
                     "endOffset": 1068
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -605,7 +201,7 @@
                     "endOffset": 1153
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -624,7 +220,7 @@
                     "endOffset": 1260
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -643,7 +239,7 @@
                     "endOffset": 1367
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -662,7 +258,7 @@
                     "endOffset": 1466
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -681,7 +277,7 @@
                     "endOffset": 1576
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -700,7 +296,7 @@
                     "endOffset": 1683
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -719,7 +315,7 @@
                     "endOffset": 1783
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -738,7 +334,7 @@
                     "endOffset": 1908
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -757,7 +353,7 @@
                     "endOffset": 2007
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -776,7 +372,7 @@
                     "endOffset": 2089
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -795,7 +391,7 @@
                     "endOffset": 2190
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

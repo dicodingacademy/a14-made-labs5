@@ -1,7 +1,0 @@
-#Fri Jan 20 23:56:25 ICT 2017
-base.0=E\:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f345529b9d42bab44624f7f9e3ed9af9968a36ad
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ec9c91e6a45a4ff31b6a3d64c1ccf496dd9020b8\\classes.dex
-base.1=E\:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ec9c91e6a45a4ff31b6a3d64c1ccf496dd9020b8
-file.0=E\:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f345529b9d42bab44624f7f9e3ed9af9968a36ad\\classes.dex

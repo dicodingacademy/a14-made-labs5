@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

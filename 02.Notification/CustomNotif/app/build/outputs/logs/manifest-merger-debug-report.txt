@@ -1,87 +1,101 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:3:5-47
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 application
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:5:5-29:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.example.dicoding.customnotif.MainActivity
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:11:19-47
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:15:27-74
 service#com.example.dicoding.customnotif.NotificationService
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:19:9-21:40
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:20:13-48
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:20:13-48
 receiver#com.example.dicoding.customnotif.NotificationBroadcastReceiver
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:23:9-26:40
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:23:9-26:40
 	android:enabled
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:25:13-35
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:25:13-35
 	android:exported
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:24:13-58
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:24:13-58
 activity#com.example.dicoding.customnotif.ReplyActivity
-ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:28:9-60
+ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:28:9-60
 	android:name
-		ADDED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:28:19-48
 uses-sdk
-INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Work\Android Projects\AndroidStudioProjects\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\02.Notification\CustomNotif\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:26:9-47

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\src\\main\\res\\values-v14\\dimens.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\src\\main\\res\\values-v14\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 370
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 441
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 524
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -90,7 +90,7 @@
                     "endOffset": 934
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -111,7 +111,7 @@
                     "endOffset": 1356
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -131,7 +131,7 @@
                     "endOffset": 1476
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -150,7 +150,7 @@
                     "endOffset": 1608
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -169,7 +169,7 @@
                     "endOffset": 1728
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -188,7 +188,7 @@
                     "endOffset": 1791
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -208,7 +208,7 @@
                     "endOffset": 1945
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -228,7 +228,7 @@
                     "endOffset": 2008
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -247,267 +247,7 @@
                     "endOffset": 2140
                 },
                 "from": {
-                    "file": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1969,
-                        "endColumn": 131,
-                        "endOffset": 2096
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 43,
-                    "endOffset": 94
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\src\\main\\res\\values-v14\\dimens.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 216,
-                        "endColumn": 43,
-                        "endOffset": 255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 99,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 370
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 6,
-                        "endColumn": 12,
-                        "endOffset": 326
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 375,
-                    "endColumn": 70,
-                    "endOffset": 441
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 331,
-                        "endColumn": 70,
-                        "endOffset": 397
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 446,
-                    "endColumn": 82,
-                    "endOffset": 524
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 402,
-                        "endColumn": 82,
-                        "endOffset": 480
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 529,
-                    "endLine": 15,
-                    "endColumn": 12,
-                    "endOffset": 934
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 485,
-                        "endLine": 14,
-                        "endColumn": 12,
-                        "endOffset": 890
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 939,
-                    "endLine": 21,
-                    "endColumn": 12,
-                    "endOffset": 1356
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 895,
-                        "endLine": 20,
-                        "endColumn": 12,
-                        "endOffset": 1312
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1361,
-                    "endColumn": 119,
-                    "endOffset": 1476
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1317,
-                        "endColumn": 119,
-                        "endOffset": 1432
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1481,
-                    "endColumn": 131,
-                    "endOffset": 1608
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1437,
-                        "endColumn": 131,
-                        "endOffset": 1564
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1613,
-                    "endColumn": 119,
-                    "endOffset": 1728
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1569,
-                        "endColumn": 119,
-                        "endOffset": 1684
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1733,
-                    "endColumn": 62,
-                    "endOffset": 1791
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1689,
-                        "endColumn": 62,
-                        "endOffset": 1747
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1796,
-                    "endLine": 28,
-                    "endColumn": 12,
-                    "endOffset": 1945
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1752,
-                        "endLine": 27,
-                        "endColumn": 12,
-                        "endOffset": 1901
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 1950,
-                    "endColumn": 62,
-                    "endOffset": 2008
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1906,
-                        "endColumn": 62,
-                        "endOffset": 1964
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2013,
-                    "endColumn": 131,
-                    "endOffset": 2140
-                },
-                "from": {
-                    "file": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-v14\\values-v14.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,

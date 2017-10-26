@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-port\\values-port.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

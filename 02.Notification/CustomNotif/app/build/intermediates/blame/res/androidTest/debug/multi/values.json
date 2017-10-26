@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "E:\\Work\\Android Projects\\AndroidStudioProjects\\CustomNotif\\app\\build\\intermediates\\exploded-aar\\com.android.support.test\\rules\\0.5\\res\\values\\values.xml",
+                    "file": "D:\\Made Github\\4.Modul-Extension\\02.Notification\\CustomNotif\\app\\build\\intermediates\\exploded-aar\\com.android.support.test\\rules\\0.5\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

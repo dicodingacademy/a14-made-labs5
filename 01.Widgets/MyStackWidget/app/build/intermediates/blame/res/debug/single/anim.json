@@ -1,82 +1,42 @@
 [
     {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_in.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_out.xml"
     }
 ]

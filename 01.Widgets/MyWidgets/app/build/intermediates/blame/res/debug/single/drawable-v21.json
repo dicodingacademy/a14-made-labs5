@@ -1,34 +1,18 @@
 [
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyWidgets\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

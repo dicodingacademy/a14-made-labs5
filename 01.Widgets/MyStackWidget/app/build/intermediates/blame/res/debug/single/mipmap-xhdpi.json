@@ -1,10 +1,6 @@
 [
     {
-        "merged": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "D:\\Work\\Associate\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "D:\\Made Github\\4.Modul-Extension\\Modul.02.Widgets\\MyStackWidget\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Made Github\\4.Modul-Extension\\01.Widgets\\MyStackWidget\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
