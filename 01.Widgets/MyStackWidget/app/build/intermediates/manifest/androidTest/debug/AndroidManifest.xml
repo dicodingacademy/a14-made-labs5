@@ -13,7 +13,7 @@
         android:label="Tests for com.example.dicoding.mystackwidget"
         android:targetPackage="com.example.dicoding.mystackwidget" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

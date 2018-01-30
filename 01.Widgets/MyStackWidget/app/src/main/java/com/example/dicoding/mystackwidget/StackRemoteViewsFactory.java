@@ -39,9 +39,9 @@ class StackRemoteViewsFactory implements
         mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(),
                 R.drawable.storm_trooper));
 
-        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(),R.drawable.starwars));
+        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.starwars));
 
-        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(),R.drawable.falcon));
+        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.falcon));
 
     }
 
@@ -64,7 +64,7 @@ class StackRemoteViewsFactory implements
     public RemoteViews getViewAt(int position) {
 
         RemoteViews rv = new RemoteViews(mContext.getPackageName(), R.layout.widget_item);
-        rv.setImageViewBitmap(R.id.imageView,mWidgetItems.get(position));
+        rv.setImageViewBitmap(R.id.imageView, mWidgetItems.get(position));
 
         Bundle extras = new Bundle();
         extras.putInt(ImagesBannerWidget.EXTRA_ITEM, position);
@@ -94,7 +94,6 @@ class StackRemoteViewsFactory implements
     public boolean hasStableIds() {
         return false;
     }
-
 
 
 }

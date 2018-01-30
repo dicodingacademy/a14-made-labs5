@@ -30,7 +30,7 @@ public class ImagesBannerWidget extends AppWidgetProvider {
 
         RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.image_banner_widget);
 
-        views.setRemoteAdapter( R.id.stack_view, intent);
+        views.setRemoteAdapter(R.id.stack_view, intent);
 
         views.setEmptyView(R.id.stack_view, R.id.empty_view);
 
@@ -75,12 +75,16 @@ public class ImagesBannerWidget extends AppWidgetProvider {
     @Override
     public void onReceive(Context context, Intent intent) {
         AppWidgetManager mgr = AppWidgetManager.getInstance(context);
+
+
         if (intent.getAction().equals(TOAST_ACTION)) {
             int appWidgetId = intent.getIntExtra(AppWidgetManager.EXTRA_APPWIDGET_ID,
                     AppWidgetManager.INVALID_APPWIDGET_ID);
             int viewIndex = intent.getIntExtra(EXTRA_ITEM, 0);
             Toast.makeText(context, "Touched view " + viewIndex, Toast.LENGTH_SHORT).show();
         }
+
+
         super.onReceive(context, intent);
     }
 }

@@ -1,7 +1,6 @@
 package com.example.dicoding.mystackwidget;
 
 import android.content.Intent;
-import android.util.Log;
 import android.widget.RemoteViewsService;
 
 /**
@@ -11,6 +10,6 @@ import android.widget.RemoteViewsService;
 public class StackWidgetService extends RemoteViewsService {
     @Override
     public RemoteViewsFactory onGetViewFactory(Intent intent) {
-         return new StackRemoteViewsFactory(this.getApplicationContext(), intent);
+        return new StackRemoteViewsFactory(this.getApplicationContext(), intent);
     }
 }

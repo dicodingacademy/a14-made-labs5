@@ -1,37 +1,66 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0aaa98f365d9a9c463422cda3c4ec59a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\da1aeba710b491a29302aef555368791\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1bef6bbe5fdb002f8cbfe962860d8e4d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\36b6cdf600098c8f755bd984c4ddd87b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\c55cde1b3eaa8211d75d7757cd15c833\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\b5ee98f5af5b24b3120d1b9349d6f04d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\fa7c554feeac3870ebe957b99ac335b7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6c75d4f0d6c4cb61dd8f914b3be64478\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1a595b9f1b70482537f643985ba3a849\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:3:5-49
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:5:5-30:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:8:9-41
+ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0aaa98f365d9a9c463422cda3c4ec59a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0aaa98f365d9a9c463422cda3c4ec59a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\da1aeba710b491a29302aef555368791\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\da1aeba710b491a29302aef555368791\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1bef6bbe5fdb002f8cbfe962860d8e4d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1bef6bbe5fdb002f8cbfe962860d8e4d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\36b6cdf600098c8f755bd984c4ddd87b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\36b6cdf600098c8f755bd984c4ddd87b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\c55cde1b3eaa8211d75d7757cd15c833\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\c55cde1b3eaa8211d75d7757cd15c833\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\b5ee98f5af5b24b3120d1b9349d6f04d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\b5ee98f5af5b24b3120d1b9349d6f04d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\fa7c554feeac3870ebe957b99ac335b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\fa7c554feeac3870ebe957b99ac335b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6c75d4f0d6c4cb61dd8f914b3be64478\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6c75d4f0d6c4cb61dd8f914b3be64478\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1a595b9f1b70482537f643985ba3a849\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1a595b9f1b70482537f643985ba3a849\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
 		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:9:9-35
-	android:allowBackup
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:6:9-35
+	android:label
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
 		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.example.dicoding.mystackwidget.MainActivity
@@ -65,41 +94,70 @@ ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\mai
 	android:name
 		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:25:17-58
 service#com.example.dicoding.mystackwidget.StackWidgetService
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:28:9-29:81
+ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:29:9-31:72
 	android:permission
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:29:13-69
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:31:13-69
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:28:18-52
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:30:13-47
+activity#com.example.dicoding.mystackwidget.DetailActivity
+ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:33:19-49
 uses-sdk
 INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0aaa98f365d9a9c463422cda3c4ec59a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0aaa98f365d9a9c463422cda3c4ec59a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\da1aeba710b491a29302aef555368791\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\da1aeba710b491a29302aef555368791\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1bef6bbe5fdb002f8cbfe962860d8e4d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1bef6bbe5fdb002f8cbfe962860d8e4d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\36b6cdf600098c8f755bd984c4ddd87b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\36b6cdf600098c8f755bd984c4ddd87b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\c55cde1b3eaa8211d75d7757cd15c833\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\c55cde1b3eaa8211d75d7757cd15c833\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\b5ee98f5af5b24b3120d1b9349d6f04d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\b5ee98f5af5b24b3120d1b9349d6f04d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\fa7c554feeac3870ebe957b99ac335b7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\fa7c554feeac3870ebe957b99ac335b7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6c75d4f0d6c4cb61dd8f914b3be64478\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6c75d4f0d6c4cb61dd8f914b3be64478\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1a595b9f1b70482537f643985ba3a849\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1a595b9f1b70482537f643985ba3a849\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\da1aeba710b491a29302aef555368791\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\da1aeba710b491a29302aef555368791\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1bef6bbe5fdb002f8cbfe962860d8e4d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\1bef6bbe5fdb002f8cbfe962860d8e4d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\36b6cdf600098c8f755bd984c4ddd87b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\36b6cdf600098c8f755bd984c4ddd87b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\c55cde1b3eaa8211d75d7757cd15c833\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\c55cde1b3eaa8211d75d7757cd15c833\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\b5ee98f5af5b24b3120d1b9349d6f04d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\b5ee98f5af5b24b3120d1b9349d6f04d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\fa7c554feeac3870ebe957b99ac335b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\fa7c554feeac3870ebe957b99ac335b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6c75d4f0d6c4cb61dd8f914b3be64478\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6c75d4f0d6c4cb61dd8f914b3be64478\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1a595b9f1b70482537f643985ba3a849\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1a595b9f1b70482537f643985ba3a849\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyStackWidget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\dicoding\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\143fbbdd4b6c7cb951d2effb11bff11b\AndroidManifest.xml:27:13-51
