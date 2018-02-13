@@ -13,7 +13,7 @@
         android:label="Tests for com.example.dicoding.customnotif"
         android:targetPackage="com.example.dicoding.customnotif" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
