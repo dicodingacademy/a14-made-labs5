@@ -1,109 +1,175 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46fc0af96b129c5b783bcd80066a5e19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e7a92460a66ad4eb025fb0a9275fa3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ce5d29c2e5b5d7b34e31ae19e239ed1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fa5f4f11829b12f1c65307d447b5175\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c076764dc6fd685e651eb70990a49183\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\579a7a0e09fdacb41b918ef3ba2a4add\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\da7c2d39c90a66a8627d374ab8dc2ae8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\07f011ec1a902b440e43bf391c996e47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77da196cacd35279c94adee1128a280b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fe7cf240641dfe90a8e71f9daf073261\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8955cb443e7702d0896391f2a522d0e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b0f5ed4f643647ef83f36d98d44f11d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2acd6cbcf2437cfa3a3bf1dd289c70b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\da8c3d665daf58f948590e7234bc1918\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf7861ad6450ca7e846ef084c4d38a78\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aa3e5deb89730c587f1bb6a6933726b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6a7757d607a54e10ecdb5f62ef78186\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a579b1801313a07981aabffc65a59906\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7edc18b6e8ef007aa218f20ea8c411c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0fae910c93197116b2d1983c9e52d438\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c6bea15d07f7d71d3c7607328d29b69\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\58053a8e344cac0b5bc2b5ea1ae3237a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6be8e6e5ef76fb89a5b199f1f57bdf25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c82415663d8569f068d2ff4413ca3534\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:5:5-32:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:8:9-41
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:9:9-35
-	android:allowBackup
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:10:9-40
-activity#com.example.dicoding.mywidgets.MainActivity
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:11:9-17:20
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.dicoding.picodiploma.mywidgets.MainActivity
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:11:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:12:13-16:29
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:12:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:15:27-74
-receiver#com.example.dicoding.mywidgets.BilanganAcakWidget
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:19:9-27:20
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:16:27-74
+receiver#com.dicoding.picodiploma.mywidgets.BilanganAcakWidget
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:19:19-53
-intent-filter#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:20:13-22:29
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:20:19-87
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:21:13-23:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:21:17-84
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:22:17-84
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:21:25-81
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:22:25-81
 meta-data#android.appwidget.provider
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:24:13-26:69
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:25:13-27:69
 	android:resource
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:26:17-66
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:27:17-66
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:25:17-58
-service#com.example.dicoding.mywidgets.UpdateWidgetService
-ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:28:9-31:71
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:26:17-58
+service#com.dicoding.picodiploma.mywidgets.UpdateWidgetService
+ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:29:9-32:71
 	android:enabled
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:29:13-35
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:30:13-35
 	android:exported
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:31:13-36
 	android:permission
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:31:13-69
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:32:13-69
 	android:name
-		ADDED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:28:18-53
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml:29:18-87
 uses-sdk
-INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:23:9-75
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46fc0af96b129c5b783bcd80066a5e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46fc0af96b129c5b783bcd80066a5e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e7a92460a66ad4eb025fb0a9275fa3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e7a92460a66ad4eb025fb0a9275fa3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ce5d29c2e5b5d7b34e31ae19e239ed1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ce5d29c2e5b5d7b34e31ae19e239ed1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fa5f4f11829b12f1c65307d447b5175\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fa5f4f11829b12f1c65307d447b5175\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c076764dc6fd685e651eb70990a49183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c076764dc6fd685e651eb70990a49183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\579a7a0e09fdacb41b918ef3ba2a4add\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\579a7a0e09fdacb41b918ef3ba2a4add\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\da7c2d39c90a66a8627d374ab8dc2ae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\da7c2d39c90a66a8627d374ab8dc2ae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\07f011ec1a902b440e43bf391c996e47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\07f011ec1a902b440e43bf391c996e47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77da196cacd35279c94adee1128a280b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77da196cacd35279c94adee1128a280b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fe7cf240641dfe90a8e71f9daf073261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fe7cf240641dfe90a8e71f9daf073261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8955cb443e7702d0896391f2a522d0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8955cb443e7702d0896391f2a522d0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b0f5ed4f643647ef83f36d98d44f11d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b0f5ed4f643647ef83f36d98d44f11d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2acd6cbcf2437cfa3a3bf1dd289c70b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2acd6cbcf2437cfa3a3bf1dd289c70b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\da8c3d665daf58f948590e7234bc1918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\da8c3d665daf58f948590e7234bc1918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf7861ad6450ca7e846ef084c4d38a78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf7861ad6450ca7e846ef084c4d38a78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aa3e5deb89730c587f1bb6a6933726b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aa3e5deb89730c587f1bb6a6933726b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6a7757d607a54e10ecdb5f62ef78186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6a7757d607a54e10ecdb5f62ef78186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a579b1801313a07981aabffc65a59906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a579b1801313a07981aabffc65a59906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7edc18b6e8ef007aa218f20ea8c411c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7edc18b6e8ef007aa218f20ea8c411c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0fae910c93197116b2d1983c9e52d438\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0fae910c93197116b2d1983c9e52d438\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c6bea15d07f7d71d3c7607328d29b69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c6bea15d07f7d71d3c7607328d29b69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\58053a8e344cac0b5bc2b5ea1ae3237a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\58053a8e344cac0b5bc2b5ea1ae3237a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6be8e6e5ef76fb89a5b199f1f57bdf25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6be8e6e5ef76fb89a5b199f1f57bdf25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c82415663d8569f068d2ff4413ca3534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c82415663d8569f068d2ff4413ca3534\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] D:\Made Github\4.Modul-Extension\01.Widgets\MyWidgets\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:26:9-47
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyWidgets\app\src\main\AndroidManifest.xml
