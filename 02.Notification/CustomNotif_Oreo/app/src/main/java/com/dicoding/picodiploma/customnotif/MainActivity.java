@@ -1,4 +1,4 @@
-package com.example.dicoding.customnotif;
+package com.dicoding.picodiploma.customnotif;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button buttonNotif = (Button) findViewById(R.id.button_show_notification);
+        Button buttonNotif = findViewById(R.id.button_show_notification);
         buttonNotif.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
