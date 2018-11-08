@@ -42,8 +42,8 @@ public class ReplyActivity extends AppCompatActivity {
             mNotifyId = intent.getIntExtra(KEY_NOTIFY_ID, 0);
         }
 
-        mEditReply = (EditText) findViewById(R.id.edit_reply);
-        ImageButton sendButton = (ImageButton) findViewById(R.id.button_send);
+        mEditReply = findViewById(R.id.edit_reply);
+        ImageButton sendButton = findViewById(R.id.button_send);
 
         sendButton.setOnClickListener(new View.OnClickListener() {
             @Override
