@@ -1,4 +1,4 @@
-package com.example.dicoding.customnotif;
+package com.dicoding.picodiploma.customnotif;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-import static com.example.dicoding.customnotif.NotificationService.REPLY_ACTION;
+import static com.dicoding.picodiploma.customnotif.NotificationService.REPLY_ACTION;
 
 public class ReplyActivity extends AppCompatActivity {
 
@@ -42,8 +42,8 @@ public class ReplyActivity extends AppCompatActivity {
             mNotifyId = intent.getIntExtra(KEY_NOTIFY_ID, 0);
         }
 
-        mEditReply = (EditText) findViewById(R.id.edit_reply);
-        ImageButton sendButton = (ImageButton) findViewById(R.id.button_send);
+        mEditReply = findViewById(R.id.edit_reply);
+        ImageButton sendButton = findViewById(R.id.button_send);
 
         sendButton.setOnClickListener(new View.OnClickListener() {
             @Override

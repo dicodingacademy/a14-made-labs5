@@ -1,4 +1,4 @@
-package com.example.dicoding.customnotif;
+package com.dicoding.picodiploma.customnotif;
 
 import android.annotation.TargetApi;
 import android.app.IntentService;
@@ -10,7 +10,6 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
-import android.support.v4.app.NotificationManagerCompat;
 import android.support.v4.app.RemoteInput;
 
 /**

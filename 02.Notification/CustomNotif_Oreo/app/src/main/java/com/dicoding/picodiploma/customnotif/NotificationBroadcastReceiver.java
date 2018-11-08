@@ -1,4 +1,4 @@
-package com.example.dicoding.customnotif;
+package com.dicoding.picodiploma.customnotif;
 
 import android.annotation.TargetApi;
 import android.app.NotificationChannel;
@@ -11,7 +11,7 @@ import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationManagerCompat;
 import android.widget.Toast;
 
-import static com.example.dicoding.customnotif.NotificationService.REPLY_ACTION;
+import static com.dicoding.picodiploma.customnotif.NotificationService.REPLY_ACTION;
 
 /**
  * Created by dicoding on 1/20/2017.
