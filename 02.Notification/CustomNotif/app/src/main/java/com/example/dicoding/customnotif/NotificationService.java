@@ -1,7 +1,11 @@
 package com.example.dicoding.customnotif;
 
 import android.app.IntentService;
+import android.app.Notification;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.app.PendingIntent;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
@@ -34,6 +38,10 @@ public class NotificationService extends IntentService {
         mNotificationId = 1;
         mMessageId = 123;
 
+        // Tambahkan channel id, channel name , dan tingkat importance
+        String CHANNEL_ID = "channel_01";
+        CharSequence CHANNEL_NAME = "dicoding channel";
+
         String replyLabel = getString(R.string.notif_action_reply);
         RemoteInput remoteInput = new RemoteInput.Builder(KEY_REPLY)
                 .setLabel(replyLabel)
@@ -52,8 +60,31 @@ public class NotificationService extends IntentService {
                 .setShowWhen(true)
                 .addAction(replyAction);
 
-        NotificationManagerCompat mNotificationManager = NotificationManagerCompat.from(this);
-        mNotificationManager.notify(mNotificationId, mBuilder.build());
+        NotificationManager mNotificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+
+         /*
+        Untuk android Oreo ke atas perlu menambahkan notification channel
+        Materi ini akan dibahas lebih lanjut di modul extended
+         */
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+
+            /* Create or update. */
+            NotificationChannel channel = new NotificationChannel(CHANNEL_ID,
+                    CHANNEL_NAME,
+                    NotificationManager.IMPORTANCE_DEFAULT);
+
+            mBuilder.setChannelId(CHANNEL_ID);
+
+            if (mNotificationManager != null) {
+                mNotificationManager.createNotificationChannel(channel);
+            }
+        }
+
+        Notification notification = mBuilder.build();
+
+        if (mNotificationManager != null) {
+            mNotificationManager.notify(mNotificationId, notification);
+        }
     }
 
     private PendingIntent getReplyPendingIntent() {

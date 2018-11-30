@@ -1,8 +1,12 @@
 package com.example.dicoding.customnotif;
 
+import android.app.Notification;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationManagerCompat;
 import android.widget.Toast;
@@ -42,14 +46,40 @@ public class NotificationBroadcastReceiver extends BroadcastReceiver {
     }
 
     private void updateNotification(Context context, int notifyId) {
-        NotificationManagerCompat notificationManager = NotificationManagerCompat.from(context);
+        String CHANNEL_ID = "channel_01";
+        CharSequence CHANNEL_NAME = "dicoding channel";
 
-        NotificationCompat.Builder builder = new NotificationCompat.Builder(context)
+
+        NotificationManager mNotificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
+
+        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context)
                 .setSmallIcon(R.drawable.ic_notifications_white_48px)
                 .setContentTitle(context.getString(R.string.notif_title_sent))
                 .setContentText(context.getString(R.string.notif_content_sent));
 
-        notificationManager.notify(notifyId, builder.build());
+          /*
+        Untuk android Oreo ke atas perlu menambahkan notification channel
+        Materi ini akan dibahas lebih lanjut di modul extended
+         */
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+
+            /* Create or update. */
+            NotificationChannel channel = new NotificationChannel(CHANNEL_ID,
+                    CHANNEL_NAME,
+                    NotificationManager.IMPORTANCE_DEFAULT);
+
+            mBuilder.setChannelId(CHANNEL_ID);
+
+            if (mNotificationManager != null) {
+                mNotificationManager.createNotificationChannel(channel);
+            }
+        }
+
+        Notification notification = mBuilder.build();
+
+        if (mNotificationManager != null) {
+            mNotificationManager.notify(notifyId, notification);
+        }
     }
 
 
