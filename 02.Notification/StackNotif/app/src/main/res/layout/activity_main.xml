@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     android:gravity="center|top"
-    tools:context="com.example.dicoding.stackbundle.MainActivity">
+    tools:context="com.dicoding.picodiploma.stackbundle.MainActivity">
     <EditText
         android:id="@+id/edtSender"
         android:layout_width="wrap_content"
@@ -30,11 +30,11 @@
         android:hint="@string/hintMessage"
         />
     <Button
-        android:id="@+id/btnKirim"
+        android:id="@+id/btnSend"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/colorAccent"
         android:textColor="@android:color/white"
         android:padding="@dimen/activity_horizontal_margin"
-        android:text="@string/kirimNotif"/>
+        android:text="@string/sendNotif"/>
 </LinearLayout>

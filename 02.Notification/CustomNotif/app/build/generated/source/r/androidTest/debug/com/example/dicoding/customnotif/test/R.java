@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.dicoding.customnotif.test;
+package com.dicoding.picodiploma.customnotif.test;
 
 public final class R {
   public static final class anim {
@@ -2670,7 +2670,7 @@ public final class R {
         0x7f0200d6
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2682,7 +2682,7 @@ public final class R {
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2697,7 +2697,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2712,7 +2712,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2725,7 +2725,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2738,7 +2738,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2751,7 +2751,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2764,7 +2764,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2777,7 +2777,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2790,7 +2790,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2802,7 +2802,7 @@ public final class R {
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -2824,7 +2824,7 @@ public final class R {
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2836,7 +2836,7 @@ public final class R {
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2849,7 +2849,7 @@ public final class R {
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2862,7 +2862,7 @@ public final class R {
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -2872,7 +2872,7 @@ public final class R {
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2884,7 +2884,7 @@ public final class R {
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2896,7 +2896,7 @@ public final class R {
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2908,7 +2908,7 @@ public final class R {
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2920,7 +2920,7 @@ public final class R {
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2933,7 +2933,7 @@ public final class R {
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2945,7 +2945,7 @@ public final class R {
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2963,7 +2963,7 @@ public final class R {
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2975,7 +2975,7 @@ public final class R {
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2988,7 +2988,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3000,7 +3000,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -3010,7 +3010,7 @@ public final class R {
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3022,7 +3022,7 @@ public final class R {
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -3032,7 +3032,7 @@ public final class R {
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3141,7 +3141,7 @@ public final class R {
         0x7f0200b2, 0x7f0200d6
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3153,7 +3153,7 @@ public final class R {
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3168,7 +3168,7 @@ public final class R {
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3180,7 +3180,7 @@ public final class R {
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3193,7 +3193,7 @@ public final class R {
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3205,7 +3205,7 @@ public final class R {
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3233,7 +3233,7 @@ public final class R {
         0x7f020066, 0x7f020071
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3245,7 +3245,7 @@ public final class R {
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -3294,7 +3294,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3306,7 +3306,7 @@ public final class R {
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3318,7 +3318,7 @@ public final class R {
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3330,7 +3330,7 @@ public final class R {
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3342,7 +3342,7 @@ public final class R {
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -3352,7 +3352,7 @@ public final class R {
      */
     public static final int AlertDialog_showTitle=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3399,7 +3399,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3411,7 +3411,7 @@ public final class R {
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -3422,7 +3422,7 @@ public final class R {
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3474,7 +3474,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3486,7 +3486,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -3497,7 +3497,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3675,7 +3675,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3983,7 +3983,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3995,7 +3995,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4007,7 +4007,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4019,7 +4019,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4040,7 +4040,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4052,7 +4052,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4064,7 +4064,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4076,7 +4076,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4088,7 +4088,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4100,7 +4100,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4112,7 +4112,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4124,7 +4124,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4136,7 +4136,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4148,7 +4148,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4160,7 +4160,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4175,7 +4175,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4187,7 +4187,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4199,7 +4199,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4211,7 +4211,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4223,7 +4223,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4235,7 +4235,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4247,7 +4247,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4259,7 +4259,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4271,7 +4271,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4283,7 +4283,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4295,7 +4295,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4307,7 +4307,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4319,7 +4319,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4331,7 +4331,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4343,7 +4343,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4355,7 +4355,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4367,7 +4367,7 @@ public final class R {
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4379,7 +4379,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4389,7 +4389,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4401,7 +4401,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4413,7 +4413,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4425,7 +4425,7 @@ public final class R {
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4437,7 +4437,7 @@ public final class R {
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4449,7 +4449,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4461,7 +4461,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4473,7 +4473,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4485,7 +4485,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4497,7 +4497,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4509,7 +4509,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4521,7 +4521,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4533,7 +4533,7 @@ public final class R {
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4545,7 +4545,7 @@ public final class R {
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4556,7 +4556,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4567,7 +4567,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4578,7 +4578,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4589,7 +4589,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4600,7 +4600,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4611,7 +4611,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4622,7 +4622,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorPrimary=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4633,7 +4633,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorPrimaryDark=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4644,7 +4644,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4656,7 +4656,7 @@ public final class R {
      */
     public static final int AppCompatTheme_controlBackground=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4669,7 +4669,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dialogPreferredPadding=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4681,7 +4681,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dialogTheme=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4693,7 +4693,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dividerHorizontal=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4705,7 +4705,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dividerVertical=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4717,7 +4717,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dropDownListViewStyle=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4730,7 +4730,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4742,7 +4742,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextBackground=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4757,7 +4757,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextColor=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4769,7 +4769,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4781,7 +4781,7 @@ public final class R {
      */
     public static final int AppCompatTheme_homeAsUpIndicator=67;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4793,7 +4793,7 @@ public final class R {
      */
     public static final int AppCompatTheme_imageButtonStyle=68;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4805,7 +4805,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=69;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4817,7 +4817,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listDividerAlertDialog=70;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4829,7 +4829,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listMenuViewStyle=71;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4841,7 +4841,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPopupWindowStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4854,7 +4854,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeight=73;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4867,7 +4867,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=74;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4880,7 +4880,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=75;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4893,7 +4893,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4906,7 +4906,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4918,7 +4918,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelBackground=78;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4930,7 +4930,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelMenuListTheme=79;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4943,7 +4943,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelMenuListWidth=80;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4955,7 +4955,7 @@ public final class R {
      */
     public static final int AppCompatTheme_popupMenuStyle=81;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4967,7 +4967,7 @@ public final class R {
      */
     public static final int AppCompatTheme_popupWindowStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4979,7 +4979,7 @@ public final class R {
      */
     public static final int AppCompatTheme_radioButtonStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4991,7 +4991,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5003,7 +5003,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=85;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5015,7 +5015,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=86;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5027,7 +5027,7 @@ public final class R {
      */
     public static final int AppCompatTheme_searchViewStyle=87;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5039,7 +5039,7 @@ public final class R {
      */
     public static final int AppCompatTheme_seekBarStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5051,7 +5051,7 @@ public final class R {
      */
     public static final int AppCompatTheme_selectableItemBackground=89;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5063,7 +5063,7 @@ public final class R {
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=90;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5075,7 +5075,7 @@ public final class R {
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=91;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5087,7 +5087,7 @@ public final class R {
      */
     public static final int AppCompatTheme_spinnerStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5099,7 +5099,7 @@ public final class R {
      */
     public static final int AppCompatTheme_switchStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5111,7 +5111,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=94;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5123,7 +5123,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceListItem=95;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5135,7 +5135,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=96;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5147,7 +5147,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=97;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5159,7 +5159,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=98;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5171,7 +5171,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=99;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5183,7 +5183,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5195,7 +5195,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=101;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5210,7 +5210,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=102;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5225,7 +5225,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textColorSearchUrl=103;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5237,7 +5237,7 @@ public final class R {
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=104;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5249,7 +5249,7 @@ public final class R {
      */
     public static final int AppCompatTheme_toolbarStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5259,7 +5259,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionBar=106;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5269,7 +5269,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionBarOverlay=107;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5279,7 +5279,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionModeOverlay=108;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5296,7 +5296,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=109;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5313,7 +5313,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=110;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5330,7 +5330,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=111;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5347,7 +5347,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=112;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5364,7 +5364,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowMinWidthMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5381,7 +5381,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowMinWidthMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5405,7 +5405,7 @@ public final class R {
         0x7f020026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5453,7 +5453,7 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -5492,7 +5492,7 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5503,7 +5503,7 @@ public final class R {
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5552,7 +5552,7 @@ public final class R {
         0x7f02005e, 0x7f020067, 0x7f0200a7, 0x7f0200c4
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5565,7 +5565,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5578,7 +5578,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5591,7 +5591,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5602,7 +5602,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5615,7 +5615,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5628,7 +5628,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5638,7 +5638,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5757,7 +5757,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5769,7 +5769,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5782,7 +5782,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5792,7 +5792,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6252,7 +6252,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6264,7 +6264,7 @@ public final class R {
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6274,7 +6274,7 @@ public final class R {
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6284,7 +6284,7 @@ public final class R {
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6423,7 +6423,7 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6433,7 +6433,7 @@ public final class R {
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6490,7 +6490,7 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6514,7 +6514,7 @@ public final class R {
         0x7f0200ac
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6540,7 +6540,7 @@ public final class R {
         0x7f020089, 0x7f02008c
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6553,7 +6553,7 @@ public final class R {
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6717,7 +6717,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6729,7 +6729,7 @@ public final class R {
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6741,7 +6741,7 @@ public final class R {
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6751,7 +6751,7 @@ public final class R {
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6763,7 +6763,7 @@ public final class R {
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6773,7 +6773,7 @@ public final class R {
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6785,7 +6785,7 @@ public final class R {
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6797,7 +6797,7 @@ public final class R {
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6807,7 +6807,7 @@ public final class R {
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6819,7 +6819,7 @@ public final class R {
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6831,7 +6831,7 @@ public final class R {
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6843,7 +6843,7 @@ public final class R {
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6855,7 +6855,7 @@ public final class R {
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6952,7 +6952,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7039,7 +7039,7 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7049,7 +7049,7 @@ public final class R {
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7059,7 +7059,7 @@ public final class R {
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7072,7 +7072,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7085,7 +7085,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7097,7 +7097,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7110,7 +7110,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7121,7 +7121,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7142,7 +7142,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7154,7 +7154,7 @@ public final class R {
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7165,7 +7165,7 @@ public final class R {
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7338,7 +7338,7 @@ public final class R {
      */
     public static final int TextAppearance_android_shadowRadius=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7471,7 +7471,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7488,7 +7488,7 @@ public final class R {
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7498,7 +7498,7 @@ public final class R {
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7510,7 +7510,7 @@ public final class R {
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7523,7 +7523,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7536,7 +7536,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7549,7 +7549,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7562,7 +7562,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7575,7 +7575,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7588,7 +7588,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7600,7 +7600,7 @@ public final class R {
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7610,7 +7610,7 @@ public final class R {
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7623,7 +7623,7 @@ public final class R {
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7633,7 +7633,7 @@ public final class R {
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7645,7 +7645,7 @@ public final class R {
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7657,7 +7657,7 @@ public final class R {
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7667,7 +7667,7 @@ public final class R {
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7679,7 +7679,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7690,7 +7690,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7700,7 +7700,7 @@ public final class R {
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7713,7 +7713,7 @@ public final class R {
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7726,7 +7726,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7739,7 +7739,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7752,7 +7752,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7765,7 +7765,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7778,7 +7778,7 @@ public final class R {
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7790,7 +7790,7 @@ public final class R {
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7846,7 +7846,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7859,7 +7859,7 @@ public final class R {
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7872,7 +7872,7 @@ public final class R {
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7917,7 +7917,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7928,7 +7928,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.dicoding.customnotif.test.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.dicoding.picodiploma.customnotif.test.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
