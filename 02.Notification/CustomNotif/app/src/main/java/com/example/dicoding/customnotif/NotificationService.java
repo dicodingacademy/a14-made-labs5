@@ -10,7 +10,6 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
-import android.support.v4.app.NotificationManagerCompat;
 import android.support.v4.app.RemoteInput;
 
 /**
@@ -18,11 +17,14 @@ import android.support.v4.app.RemoteInput;
  */
 
 public class NotificationService extends IntentService {
+    private static final String KEY_REPLY = "key_reply_message";
     public static String REPLY_ACTION = "com.dicoding.notification.directreply.REPLY_ACTION";
-    private static String KEY_REPLY = "key_reply_message";
+    public static String CHANNEL_ID = "channel_01";
+    public static CharSequence CHANNEL_NAME = "dicoding channel";
 
     private int mNotificationId;
     private int mMessageId;
+
     public NotificationService() {
         super("NotificationService");
     }
@@ -39,8 +41,6 @@ public class NotificationService extends IntentService {
         mMessageId = 123;
 
         // Tambahkan channel id, channel name , dan tingkat importance
-        String CHANNEL_ID = "channel_01";
-        CharSequence CHANNEL_NAME = "dicoding channel";
 
         String replyLabel = getString(R.string.notif_action_reply);
         RemoteInput remoteInput = new RemoteInput.Builder(KEY_REPLY)
@@ -53,7 +53,7 @@ public class NotificationService extends IntentService {
                 .setAllowGeneratedReplies(true)
                 .build();
 
-        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(this)
+        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(this, CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_notifications_white_48px)
                 .setContentTitle(getString(R.string.notif_title))
                 .setContentText(getString(R.string.notif_content))

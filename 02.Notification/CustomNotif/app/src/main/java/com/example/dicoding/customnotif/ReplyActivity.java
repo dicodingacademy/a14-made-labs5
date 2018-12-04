@@ -1,16 +1,21 @@
 package com.example.dicoding.customnotif;
 
+import android.app.Notification;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
-import android.support.v4.app.NotificationManagerCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
+import static com.example.dicoding.customnotif.NotificationService.CHANNEL_ID;
+import static com.example.dicoding.customnotif.NotificationService.CHANNEL_NAME;
 import static com.example.dicoding.customnotif.NotificationService.REPLY_ACTION;
 
 public class ReplyActivity extends AppCompatActivity {
@@ -30,6 +35,7 @@ public class ReplyActivity extends AppCompatActivity {
         intent.putExtra(KEY_NOTIFY_ID, notifyId);
         return intent;
     }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,7 +59,7 @@ public class ReplyActivity extends AppCompatActivity {
         });
     }
 
-    private void sendMessage(int notifyId,  int messageId) {
+    private void sendMessage(int notifyId, int messageId) {
         updateNotification(notifyId);
 
         String message = mEditReply.getText().toString().trim();
@@ -64,14 +70,38 @@ public class ReplyActivity extends AppCompatActivity {
     }
 
     private void updateNotification(int notifyId) {
-        NotificationManagerCompat notificationManager = NotificationManagerCompat.from(this);
-
-        NotificationCompat.Builder builder = new NotificationCompat.Builder(this)
+        NotificationManager notificationManagerCompat = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+        NotificationCompat.Builder builder = new NotificationCompat.Builder(this, CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_notifications_white_48px)
                 .setContentTitle(getString(R.string.notif_title_sent))
                 .setContentText(getString(R.string.notif_content_sent));
 
-        notificationManager.notify(notifyId, builder.build());
+          /*
+        Untuk android Oreo ke atas perlu menambahkan notification channel
+        Materi ini akan dibahas lebih lanjut di modul extended
+         */
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+
+            /* Create or update. */
+            NotificationChannel channel = new NotificationChannel(CHANNEL_ID,
+                    CHANNEL_NAME,
+                    NotificationManager.IMPORTANCE_DEFAULT);
+
+            channel.enableVibration(true);
+            channel.setVibrationPattern(new long[]{1000, 1000, 1000, 1000, 1000});
+
+            builder.setChannelId(CHANNEL_ID);
+
+            if (notificationManagerCompat != null) {
+                notificationManagerCompat.createNotificationChannel(channel);
+            }
+        }
+
+        Notification notification = builder.build();
+
+        if (notificationManagerCompat != null) {
+            notificationManagerCompat.notify(notifyId, notification);
+        }
     }
 }
 
