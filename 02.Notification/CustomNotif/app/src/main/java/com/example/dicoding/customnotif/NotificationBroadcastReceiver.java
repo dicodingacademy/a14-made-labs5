@@ -8,9 +8,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.support.v4.app.NotificationCompat;
-import android.support.v4.app.NotificationManagerCompat;
 import android.widget.Toast;
 
+import static com.example.dicoding.customnotif.NotificationService.CHANNEL_ID;
+import static com.example.dicoding.customnotif.NotificationService.CHANNEL_NAME;
 import static com.example.dicoding.customnotif.NotificationService.REPLY_ACTION;
 
 /**
@@ -18,7 +19,7 @@ import static com.example.dicoding.customnotif.NotificationService.REPLY_ACTION;
  */
 
 public class NotificationBroadcastReceiver extends BroadcastReceiver {
-    private static String KEY_NOTIFICATION_ID = "key_noticiation_id";
+    private static final String KEY_NOTIFICATION_ID = "key_noticiation_id";
     private static String KEY_MESSAGE_ID = "key_message_id";
 
     public static Intent getReplyMessageIntent(Context context, int notificationId, int messageId) {
@@ -28,6 +29,7 @@ public class NotificationBroadcastReceiver extends BroadcastReceiver {
         intent.putExtra(KEY_MESSAGE_ID, messageId);
         return intent;
     }
+
     public NotificationBroadcastReceiver() {
     }
 
@@ -46,13 +48,10 @@ public class NotificationBroadcastReceiver extends BroadcastReceiver {
     }
 
     private void updateNotification(Context context, int notifyId) {
-        String CHANNEL_ID = "channel_01";
-        CharSequence CHANNEL_NAME = "dicoding channel";
-
 
         NotificationManager mNotificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
 
-        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context)
+        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context, CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_notifications_white_48px)
                 .setContentTitle(context.getString(R.string.notif_title_sent))
                 .setContentText(context.getString(R.string.notif_content_sent));
@@ -81,8 +80,5 @@ public class NotificationBroadcastReceiver extends BroadcastReceiver {
             mNotificationManager.notify(notifyId, notification);
         }
     }
-
-
-
 }
 
