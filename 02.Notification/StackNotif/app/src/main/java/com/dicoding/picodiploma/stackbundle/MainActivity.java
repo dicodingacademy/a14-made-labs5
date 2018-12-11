@@ -128,8 +128,5 @@ public class MainActivity extends AppCompatActivity {
         if (mNotificationManager != null) {
             mNotificationManager.notify(idNotif, notification);
         }
-
     }
-
-
 }
