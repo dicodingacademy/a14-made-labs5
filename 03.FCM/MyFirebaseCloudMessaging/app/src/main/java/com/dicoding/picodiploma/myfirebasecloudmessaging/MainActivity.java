@@ -1,16 +1,18 @@
-package com.dicoding.myfirebasecloudmessaging;
+package com.dicoding.picodiploma.myfirebasecloudmessaging;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.os.Build;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.iid.FirebaseInstanceId;
+import com.google.firebase.iid.InstanceIdResult;
 import com.google.firebase.messaging.FirebaseMessaging;
 
 public class MainActivity extends AppCompatActivity {
@@ -22,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            String channelId  = getString(R.string.default_notification_channel_id);
+            String channelId = getString(R.string.default_notification_channel_id);
             String channelName = getString(R.string.default_notification_channel_name);
             NotificationManager notificationManager =
                     getSystemService(NotificationManager.class);
@@ -37,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-        Button subscribeButton = (Button) findViewById(R.id.btn_subscribe);
+        Button subscribeButton = findViewById(R.id.btn_subscribe);
         subscribeButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -48,14 +50,19 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Button logTokenButton = (Button) findViewById(R.id.btn_token);
+        Button logTokenButton = findViewById(R.id.btn_token);
         logTokenButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String token = FirebaseInstanceId.getInstance().getToken();
-                String msg = getString(R.string.msg_token_fmt, token);
-                Log.e("token", token);
-                Toast.makeText(MainActivity.this, msg, Toast.LENGTH_SHORT).show();
+                FirebaseInstanceId.getInstance().getInstanceId().addOnSuccessListener(new OnSuccessListener<InstanceIdResult>() {
+                    @Override
+                    public void onSuccess(InstanceIdResult instanceIdResult) {
+                        String deviceToken = instanceIdResult.getToken();
+                        String msg = getString(R.string.msg_token_fmt, deviceToken);
+                        Toast.makeText(MainActivity.this, msg, Toast.LENGTH_SHORT).show();
+                        Log.d(TAG, "Refreshed token: " + deviceToken);
+                    }
+                });
             }
         });
     }
