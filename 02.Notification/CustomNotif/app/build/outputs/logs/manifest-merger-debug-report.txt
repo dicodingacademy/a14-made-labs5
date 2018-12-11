@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\357545c847969a524e7ea5b2abff8d29\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3524fe801b7dd840a2d15fe6c0be20a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\68b588b20023db9b568cd73e9990ea20\AndroidManifest.xml:17:1-22:12
@@ -30,25 +30,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dicoding Indonesia\
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4025fe65d1768b33c53dcbb3d4706fb6\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8956a25f24b6bcece05a80e3bad16cc6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a96f3417d770c0d91ac6ae8d329b597c\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:3:5-47
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:5:5-31:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e51ec328239ece6a731a6e7a7133a40\AndroidManifest.xml:22:5-23:19
@@ -56,53 +56,57 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding I
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.dicoding.customnotif.MainActivity
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.dicoding.picodiploma.customnotif.MainActivity
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:12:9-19:20
 	android:name
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:12:19-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:13:13-17:29
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:12:19-83
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:13:13-18:29
 action#android.intent.action.MAIN
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:14:25-66
+action#android.intent.action.VIEW
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:16:27-74
-service#com.example.dicoding.customnotif.NotificationService
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:20:9-22:40
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:17:27-74
+service#com.dicoding.picodiploma.customnotif.NotificationService
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:22:13-37
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:21:13-48
-receiver#com.example.dicoding.customnotif.NotificationBroadcastReceiver
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:24:9-27:40
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:22:13-84
+receiver#com.dicoding.picodiploma.customnotif.NotificationBroadcastReceiver
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:25:9-28:40
 	android:enabled
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:26:13-35
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:27:13-35
 	android:exported
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:27:13-37
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:25:13-58
-activity#com.example.dicoding.customnotif.ReplyActivity
-ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:29:9-60
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:26:13-94
+activity#com.dicoding.picodiploma.customnotif.ReplyActivity
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:30:9-87
 	android:name
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:29:19-48
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:30:19-84
 uses-sdk
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\357545c847969a524e7ea5b2abff8d29\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\357545c847969a524e7ea5b2abff8d29\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3524fe801b7dd840a2d15fe6c0be20a\AndroidManifest.xml:20:5-44
@@ -155,13 +159,13 @@ MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradl
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8956a25f24b6bcece05a80e3bad16cc6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a96f3417d770c0d91ac6ae8d329b597c\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a96f3417d770c0d91ac6ae8d329b597c\AndroidManifest.xml:20:5-44
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Dicoding\MADE\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
