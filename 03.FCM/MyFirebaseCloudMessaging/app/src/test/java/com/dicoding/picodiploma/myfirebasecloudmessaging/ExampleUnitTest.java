@@ -1,4 +1,4 @@
-package com.dicoding.myfirebasecloudmessaging;
+package com.dicoding.picodiploma.myfirebasecloudmessaging;
 
 import org.junit.Test;
 
