@@ -17,14 +17,14 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="com.dicoding.picodiploma.mywidgets.BilanganAcakWidget">
+        <receiver android:name="com.dicoding.picodiploma.mywidgets.RandomNumbersWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
 
             <meta-data
                 android:name="android.appwidget.provider"
-                android:resource="@xml/bilangan_acak_widget_info" />
+                android:resource="@xml/random_numbers_widget_info" />
         </receiver>
         <service android:name="com.dicoding.picodiploma.mywidgets.UpdateWidgetService"
             android:enabled="true"
