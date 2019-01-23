@@ -8,8 +8,10 @@ import java.util.Random;
 
 public class NumberGenerator {
 
-    public static int Generate(int max) {
+    public static int Generate(int max){
+
         Random random = new Random();
-        return random.nextInt(max);
+        int randomInt = random.nextInt(max);
+        return randomInt;
     }
 }
