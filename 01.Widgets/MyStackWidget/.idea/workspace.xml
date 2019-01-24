@@ -10,33 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b66b7212-248f-4742-9145-1e4ca6c71424" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/android_android_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/dicoding/picodiploma/mystackwidget/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/dicoding/picodiploma/mystackwidget/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/ImagesBannerWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/ImagesBannerWidget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackRemoteViewsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackRemoteViewsFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackWidgetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackWidgetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/example_appwidget_preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/image_banner_widget.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/image_banner_widget.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/widget_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/widget_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v14/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/image_banner_widget_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/image_banner_widget_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/dicoding/picodiploma/mystackwidget/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/dicoding/picodiploma/mystackwidget/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWidgets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyWidgets/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/misc.xml" afterDir="false" />
@@ -83,7 +56,7 @@
     <session id="1464657025">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -144,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackRemoteViewsFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="217">
+              <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
               <folding>
                 <element signature="e#614#615#0" expanded="true" />
                 <element signature="e#648#649#0" expanded="true" />
@@ -248,9 +221,9 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/image_banner_widget.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/widget_item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackWidgetService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackRemoteViewsFactory.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/ImagesBannerWidget.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackRemoteViewsFactory.java" />
       </list>
     </option>
   </component>
@@ -390,7 +363,7 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="D:/Android/sdk" />
     <property name="device.picker.selection" value="Nexus_5X_API_28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyWidgets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../02.Notification/SimpleNotif" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
@@ -619,8 +592,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dicoding/picodiploma/mystackwidget/StackRemoteViewsFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="217">
+          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
           <folding>
             <element signature="e#614#615#0" expanded="true" />
             <element signature="e#648#649#0" expanded="true" />
