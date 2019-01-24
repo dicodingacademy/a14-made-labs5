@@ -1,178 +1,176 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d9d04ffa67ff26ec4b54775bef454a8\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46fc0af96b129c5b783bcd80066a5e19\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e7a92460a66ad4eb025fb0a9275fa3d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ce5d29c2e5b5d7b34e31ae19e239ed1b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fa5f4f11829b12f1c65307d447b5175\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c076764dc6fd685e651eb70990a49183\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\579a7a0e09fdacb41b918ef3ba2a4add\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\da7c2d39c90a66a8627d374ab8dc2ae8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\07f011ec1a902b440e43bf391c996e47\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77da196cacd35279c94adee1128a280b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fe7cf240641dfe90a8e71f9daf073261\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8955cb443e7702d0896391f2a522d0e6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b0f5ed4f643647ef83f36d98d44f11d9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2acd6cbcf2437cfa3a3bf1dd289c70b2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\da8c3d665daf58f948590e7234bc1918\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf7861ad6450ca7e846ef084c4d38a78\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aa3e5deb89730c587f1bb6a6933726b8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6a7757d607a54e10ecdb5f62ef78186\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a579b1801313a07981aabffc65a59906\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7edc18b6e8ef007aa218f20ea8c411c9\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0fae910c93197116b2d1983c9e52d438\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c6bea15d07f7d71d3c7607328d29b69\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\58053a8e344cac0b5bc2b5ea1ae3237a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6be8e6e5ef76fb89a5b199f1f57bdf25\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c82415663d8569f068d2ff4413ca3534\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6ae0845e4e39822135d3a3465af4eec7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f832f98680d0c52aab4481f55f7271b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e364bf44c99c5b89da21a0f139e96c6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\298fbf769d3f127a378303b4566a56fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e235870582b63e4d7ad5fc8590715a5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\76e52aa9e4fef9677e0e31376366bff2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b540cabf35a045c028375d24103deb9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b1a8112ae24790c3df611a4483d4a1c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\13ec6fa43376823bc38a5cec2adc3645\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c77708889f894e963df7f687ade83cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0be0a9457f69fe8b5a9daf32c1af382d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\43e96b6cb49d75605c08463cdf90d338\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\49c118ec86ce55a8b1711aa55831faa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\71a922b44c018fa15ff5245a3acfc647\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7b82a11791cccfddeb309ad2fc687110\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac5db57008221ee582b7f2e6bc6f608e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7113ca1937e50f6e0ee9e3463cc0597\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\de51b1715f78108c2d42e9e749fec570\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3445d74076f0d48208d66ae3704d8180\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4c7072b10da94c9cbc7d711e6ebd74ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a03d24f8c28d9d886d68491a4c29817f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ecbe04a436b77f946b2d688ccc258b18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9df105c195d23670c0b5433f2f1f9156\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f4ecfb8b49ea9e4a8c173a1744e8c778\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4edd8b615017fa05406ed1e4af133e5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33a0f3896ca19a971edcc0c5d58dece9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0d80c92df614c4332c4d3a4963a5a473\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:3:5-53
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-36:12
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:5:5-34:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d9d04ffa67ff26ec4b54775bef454a8\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d9d04ffa67ff26ec4b54775bef454a8\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:22:5-23:19
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6ae0845e4e39822135d3a3465af4eec7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6ae0845e4e39822135d3a3465af4eec7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac5db57008221ee582b7f2e6bc6f608e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac5db57008221ee582b7f2e6bc6f608e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7113ca1937e50f6e0ee9e3463cc0597\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7113ca1937e50f6e0ee9e3463cc0597\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac5db57008221ee582b7f2e6bc6f608e\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.dicoding.picodiploma.mystackwidget.MainActivity
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:11:19-85
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:12:19-85
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:16:27-74
 receiver#com.dicoding.picodiploma.mystackwidget.ImagesBannerWidget
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:19:19-91
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:20:19-91
 intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:20:13-22:29
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:21:13-23:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:21:17-84
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:22:17-84
 	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:21:25-81
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:22:25-81
 meta-data#android.appwidget.provider
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:24:13-26:68
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:25:13-27:68
 	android:resource
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:26:17-65
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:27:17-65
 	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:25:17-58
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:26:17-58
 service#com.dicoding.picodiploma.mystackwidget.StackWidgetService
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:29:9-31:72
+ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:30:9-32:72
 	android:permission
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:31:13-69
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:32:13-69
 	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:30:13-85
-activity#com.dicoding.picodiploma.mystackwidget.DetailActivity
-ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:33:9-61
-	android:name
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:33:19-49
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml:31:13-85
 uses-sdk
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d9d04ffa67ff26ec4b54775bef454a8\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d9d04ffa67ff26ec4b54775bef454a8\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46fc0af96b129c5b783bcd80066a5e19\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\46fc0af96b129c5b783bcd80066a5e19\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e7a92460a66ad4eb025fb0a9275fa3d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e7a92460a66ad4eb025fb0a9275fa3d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ce5d29c2e5b5d7b34e31ae19e239ed1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ce5d29c2e5b5d7b34e31ae19e239ed1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fa5f4f11829b12f1c65307d447b5175\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fa5f4f11829b12f1c65307d447b5175\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c076764dc6fd685e651eb70990a49183\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c076764dc6fd685e651eb70990a49183\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\579a7a0e09fdacb41b918ef3ba2a4add\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\579a7a0e09fdacb41b918ef3ba2a4add\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\da7c2d39c90a66a8627d374ab8dc2ae8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\da7c2d39c90a66a8627d374ab8dc2ae8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\07f011ec1a902b440e43bf391c996e47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\07f011ec1a902b440e43bf391c996e47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77da196cacd35279c94adee1128a280b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77da196cacd35279c94adee1128a280b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fe7cf240641dfe90a8e71f9daf073261\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fe7cf240641dfe90a8e71f9daf073261\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8955cb443e7702d0896391f2a522d0e6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8955cb443e7702d0896391f2a522d0e6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b0f5ed4f643647ef83f36d98d44f11d9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b0f5ed4f643647ef83f36d98d44f11d9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2acd6cbcf2437cfa3a3bf1dd289c70b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2acd6cbcf2437cfa3a3bf1dd289c70b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\da8c3d665daf58f948590e7234bc1918\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\da8c3d665daf58f948590e7234bc1918\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\95f7eeb80e3579f8cd6df87bf9ac932c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3aca276cbcfe04083b220e03cb88ad35\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf7861ad6450ca7e846ef084c4d38a78\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cf7861ad6450ca7e846ef084c4d38a78\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aa3e5deb89730c587f1bb6a6933726b8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aa3e5deb89730c587f1bb6a6933726b8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6a7757d607a54e10ecdb5f62ef78186\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6a7757d607a54e10ecdb5f62ef78186\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a579b1801313a07981aabffc65a59906\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a579b1801313a07981aabffc65a59906\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7edc18b6e8ef007aa218f20ea8c411c9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7edc18b6e8ef007aa218f20ea8c411c9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0fae910c93197116b2d1983c9e52d438\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0fae910c93197116b2d1983c9e52d438\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c6bea15d07f7d71d3c7607328d29b69\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c6bea15d07f7d71d3c7607328d29b69\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\58053a8e344cac0b5bc2b5ea1ae3237a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\58053a8e344cac0b5bc2b5ea1ae3237a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6be8e6e5ef76fb89a5b199f1f57bdf25\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6be8e6e5ef76fb89a5b199f1f57bdf25\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c82415663d8569f068d2ff4413ca3534\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gilan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c82415663d8569f068d2ff4413ca3534\AndroidManifest.xml:20:5-44
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6ae0845e4e39822135d3a3465af4eec7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6ae0845e4e39822135d3a3465af4eec7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f832f98680d0c52aab4481f55f7271b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f832f98680d0c52aab4481f55f7271b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e364bf44c99c5b89da21a0f139e96c6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e364bf44c99c5b89da21a0f139e96c6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\298fbf769d3f127a378303b4566a56fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\298fbf769d3f127a378303b4566a56fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e235870582b63e4d7ad5fc8590715a5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e235870582b63e4d7ad5fc8590715a5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\76e52aa9e4fef9677e0e31376366bff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\76e52aa9e4fef9677e0e31376366bff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b540cabf35a045c028375d24103deb9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b540cabf35a045c028375d24103deb9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b1a8112ae24790c3df611a4483d4a1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b1a8112ae24790c3df611a4483d4a1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\13ec6fa43376823bc38a5cec2adc3645\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\13ec6fa43376823bc38a5cec2adc3645\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c77708889f894e963df7f687ade83cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c77708889f894e963df7f687ade83cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0be0a9457f69fe8b5a9daf32c1af382d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0be0a9457f69fe8b5a9daf32c1af382d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\43e96b6cb49d75605c08463cdf90d338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\43e96b6cb49d75605c08463cdf90d338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\49c118ec86ce55a8b1711aa55831faa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\49c118ec86ce55a8b1711aa55831faa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\71a922b44c018fa15ff5245a3acfc647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\71a922b44c018fa15ff5245a3acfc647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7b82a11791cccfddeb309ad2fc687110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7b82a11791cccfddeb309ad2fc687110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac5db57008221ee582b7f2e6bc6f608e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ac5db57008221ee582b7f2e6bc6f608e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7113ca1937e50f6e0ee9e3463cc0597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e7113ca1937e50f6e0ee9e3463cc0597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\de51b1715f78108c2d42e9e749fec570\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\de51b1715f78108c2d42e9e749fec570\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3445d74076f0d48208d66ae3704d8180\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3445d74076f0d48208d66ae3704d8180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4c7072b10da94c9cbc7d711e6ebd74ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4c7072b10da94c9cbc7d711e6ebd74ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a03d24f8c28d9d886d68491a4c29817f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a03d24f8c28d9d886d68491a4c29817f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ecbe04a436b77f946b2d688ccc258b18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ecbe04a436b77f946b2d688ccc258b18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9df105c195d23670c0b5433f2f1f9156\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9df105c195d23670c0b5433f2f1f9156\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f4ecfb8b49ea9e4a8c173a1744e8c778\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\f4ecfb8b49ea9e4a8c173a1744e8c778\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4edd8b615017fa05406ed1e4af133e5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4edd8b615017fa05406ed1e4af133e5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33a0f3896ca19a971edcc0c5d58dece9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33a0f3896ca19a971edcc0c5d58dece9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0d80c92df614c4332c4d3a4963a5a473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0d80c92df614c4332c4d3a4963a5a473\AndroidManifest.xml:20:5-44
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android\Dicoding\refactor\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\01.Widgets\MyStackWidget\app\src\main\AndroidManifest.xml
