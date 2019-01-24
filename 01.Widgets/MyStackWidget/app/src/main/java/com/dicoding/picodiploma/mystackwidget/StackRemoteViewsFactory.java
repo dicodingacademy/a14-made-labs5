@@ -1,6 +1,5 @@
 package com.dicoding.picodiploma.mystackwidget;
 
-import android.appwidget.AppWidgetManager;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -17,37 +16,28 @@ import java.util.List;
  */
 
 
-class StackRemoteViewsFactory implements
-        RemoteViewsService.RemoteViewsFactory {
+class StackRemoteViewsFactory implements RemoteViewsService.RemoteViewsFactory {
 
-    private List<Bitmap> mWidgetItems = new ArrayList<>();
-    private Context mContext;
-    private int mAppWidgetId;
+    private final List<Bitmap> mWidgetItems = new ArrayList<>();
+    private final Context mContext;
 
-    public StackRemoteViewsFactory(Context context, Intent intent) {
+    StackRemoteViewsFactory(Context context) {
         mContext = context;
-        mAppWidgetId = intent.getIntExtra(AppWidgetManager.EXTRA_APPWIDGET_ID,
-                AppWidgetManager.INVALID_APPWIDGET_ID);
     }
 
+    @Override
     public void onCreate() {
-
-        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(),
-                R.drawable.darth_vader));
-        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(),
-                R.drawable.star_wars_logo));
-        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(),
-                R.drawable.storm_trooper));
-
-        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.starwars));
-
-        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.falcon));
 
     }
 
     @Override
     public void onDataSetChanged() {
-
+        //Ini berfungsi untuk melakukan refresh saat terjadi perubahan.
+        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.darth_vader));
+        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.star_wars_logo));
+        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.storm_trooper));
+        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.starwars));
+        mWidgetItems.add(BitmapFactory.decodeResource(mContext.getResources(), R.drawable.falcon));
     }
 
     @Override
@@ -62,7 +52,6 @@ class StackRemoteViewsFactory implements
 
     @Override
     public RemoteViews getViewAt(int position) {
-
         RemoteViews rv = new RemoteViews(mContext.getPackageName(), R.layout.widget_item);
         rv.setImageViewBitmap(R.id.imageView, mWidgetItems.get(position));
 
@@ -94,6 +83,5 @@ class StackRemoteViewsFactory implements
     public boolean hasStableIds() {
         return false;
     }
-
 
 }
