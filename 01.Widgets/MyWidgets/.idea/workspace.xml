@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb9f3aee-688e-42e9-babf-2e5eb4fab16d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyStackWidget/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyStackWidget/.idea/copyright/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyStackWidget/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyStackWidget/.idea/gradle.xml" afterDir="false" />
@@ -28,13 +27,6 @@
       <change beforePath="$PROJECT_DIR$/../MyStackWidget/app/src/main/res/xml/image_banner_widget_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyStackWidget/app/src/main/res/xml/image_banner_widget_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyStackWidget/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MyStackWidget/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyStackWidget/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MyStackWidget/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWidgets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyWidgets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02.Notification/CustomNotif/.idea/misc.xml" afterDir="false" />
@@ -91,6 +83,7 @@
     <session id="191940008">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -1860,7 +1853,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
