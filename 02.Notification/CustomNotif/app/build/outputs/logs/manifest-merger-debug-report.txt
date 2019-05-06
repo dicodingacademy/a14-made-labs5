@@ -1,171 +1,171 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\357545c847969a524e7ea5b2abff8d29\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3524fe801b7dd840a2d15fe6c0be20a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\68b588b20023db9b568cd73e9990ea20\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\832bb30574fc532a6d59d5b4bfcfe1ea\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4522c73e54e80c941051644146c32fd7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\392884f3bfd715b35be09222400674e4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1a2a113106e57e9a1da1a6fa88741aca\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6b48ac256ca8905fcb2e8576358b3e47\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0eb0a88b934dd003149f94c7ae4bff11\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7fe8eab989a79a0e4aa8fc391d25e035\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6b2cde59dfc968c51f9fb7d666efd653\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8adb86beb416d6f2dc829fe142373a5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2469e18b3c1c8a776dd0647e944b0f75\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f4bcb33be07c1737d92198c127b35176\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e51ec328239ece6a731a6e7a7133a40\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\958615ff89cf8a445788806ae259d502\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b267a65a603d068c89bea59b9981bd6a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6281fb1e4ab8a1c09c628c83c971917f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a6aabd997a4ef53d2edd9ce4e7ab31f7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\78279d6601bdd5b9005a8094509e21c5\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a558de72f90b981ba342111e19b45e81\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d1fa052d812a83b66efb48bc358cee00\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4025fe65d1768b33c53dcbb3d4706fb6\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8956a25f24b6bcece05a80e3bad16cc6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a96f3417d770c0d91ac6ae8d329b597c\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/7d48c83b178c5ec4f001d30438967022/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/59535bd89081730aa8190a654f7bcff9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/fee0a0c2386f327a36649b5c46760f84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5b401f9447671b022e487b39d4e05a15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/34bd48793f28af589520c5d302605090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/7f5a0bf1a26dff44cf8c2b99c6f13baf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/d4d6efb2d6b9718d49fb1f34be863818/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/ed47399c8ddb262ded7f66a807e453d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/8bf945059f3f3a816fac8c8948c5203e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/3f0a2545e13e4d987585fc7f68edbf79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/345719cf0717660c769429476417149b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/2e561032aabdc45c1ab900b76f62df5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/c6cb4529a529824ef89d606e824d484a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5b03597ccc931b8137208de27b76145b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/885794fc6e034c27c33966698ab11155/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/f92349ea7888d13fb6ed0b82faec7dce/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/dc5a7ccdb3fd754efa471142e40ef013/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/049766cb8879a9a38e68c02fb3419971/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/1d02907559e04336cf7cf75eac14bc40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/19ca1f18c60dbb669fc10a437af451ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/025fc8760a0ed1ea2ce54e40e89bc1a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5fc6a93e645e8376e31239fc64d2a301/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/d774ee75604f971f4069d1612a00531f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/8ead8f9152b441031b313612c18a7ecf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/2d359c134c256d9a39a75de41f7aee89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/25af8ea4d9b5a5b9e0fb16a4cb350417/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:3:5-51
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:5:5-31:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e51ec328239ece6a731a6e7a7133a40\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e51ec328239ece6a731a6e7a7133a40\AndroidManifest.xml:22:5-23:19
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/885794fc6e034c27c33966698ab11155/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/885794fc6e034c27c33966698ab11155/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/f92349ea7888d13fb6ed0b82faec7dce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/f92349ea7888d13fb6ed0b82faec7dce/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/885794fc6e034c27c33966698ab11155/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.dicoding.picodiploma.customnotif.MainActivity
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:name
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:12:19-83
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:12:19-83
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:13:13-18:29
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:13:13-18:29
 action#android.intent.action.MAIN
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:14:25-66
 action#android.intent.action.VIEW
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:17:27-74
 service#com.dicoding.picodiploma.customnotif.NotificationService
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:21:9-23:40
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:22:13-84
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:22:13-84
 receiver#com.dicoding.picodiploma.customnotif.NotificationBroadcastReceiver
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:25:9-28:40
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:25:9-28:40
 	android:enabled
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:27:13-35
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:27:13-35
 	android:exported
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:28:13-37
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:26:13-94
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:26:13-94
 activity#com.dicoding.picodiploma.customnotif.ReplyActivity
-ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:30:9-87
+ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:30:9-87
 	android:name
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml:30:19-84
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml:30:19-84
 uses-sdk
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\357545c847969a524e7ea5b2abff8d29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\357545c847969a524e7ea5b2abff8d29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3524fe801b7dd840a2d15fe6c0be20a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e3524fe801b7dd840a2d15fe6c0be20a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\68b588b20023db9b568cd73e9990ea20\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\68b588b20023db9b568cd73e9990ea20\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\832bb30574fc532a6d59d5b4bfcfe1ea\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\832bb30574fc532a6d59d5b4bfcfe1ea\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4522c73e54e80c941051644146c32fd7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4522c73e54e80c941051644146c32fd7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\392884f3bfd715b35be09222400674e4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\392884f3bfd715b35be09222400674e4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1a2a113106e57e9a1da1a6fa88741aca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1a2a113106e57e9a1da1a6fa88741aca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6b48ac256ca8905fcb2e8576358b3e47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6b48ac256ca8905fcb2e8576358b3e47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0eb0a88b934dd003149f94c7ae4bff11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0eb0a88b934dd003149f94c7ae4bff11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7fe8eab989a79a0e4aa8fc391d25e035\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7fe8eab989a79a0e4aa8fc391d25e035\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6b2cde59dfc968c51f9fb7d666efd653\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6b2cde59dfc968c51f9fb7d666efd653\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8adb86beb416d6f2dc829fe142373a5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b8adb86beb416d6f2dc829fe142373a5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2469e18b3c1c8a776dd0647e944b0f75\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2469e18b3c1c8a776dd0647e944b0f75\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f4bcb33be07c1737d92198c127b35176\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f4bcb33be07c1737d92198c127b35176\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1a617a1b88c7a046bb92761af4125fd4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e51ec328239ece6a731a6e7a7133a40\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1e51ec328239ece6a731a6e7a7133a40\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\958615ff89cf8a445788806ae259d502\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\958615ff89cf8a445788806ae259d502\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b267a65a603d068c89bea59b9981bd6a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b267a65a603d068c89bea59b9981bd6a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6281fb1e4ab8a1c09c628c83c971917f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6281fb1e4ab8a1c09c628c83c971917f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a6aabd997a4ef53d2edd9ce4e7ab31f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a6aabd997a4ef53d2edd9ce4e7ab31f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\78279d6601bdd5b9005a8094509e21c5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\78279d6601bdd5b9005a8094509e21c5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a558de72f90b981ba342111e19b45e81\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a558de72f90b981ba342111e19b45e81\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d1fa052d812a83b66efb48bc358cee00\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d1fa052d812a83b66efb48bc358cee00\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4025fe65d1768b33c53dcbb3d4706fb6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4025fe65d1768b33c53dcbb3d4706fb6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8956a25f24b6bcece05a80e3bad16cc6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8956a25f24b6bcece05a80e3bad16cc6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a96f3417d770c0d91ac6ae8d329b597c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dicoding Indonesia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a96f3417d770c0d91ac6ae8d329b597c\AndroidManifest.xml:20:5-44
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/7d48c83b178c5ec4f001d30438967022/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/7d48c83b178c5ec4f001d30438967022/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/59535bd89081730aa8190a654f7bcff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/59535bd89081730aa8190a654f7bcff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/fee0a0c2386f327a36649b5c46760f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/fee0a0c2386f327a36649b5c46760f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5b401f9447671b022e487b39d4e05a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5b401f9447671b022e487b39d4e05a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/34bd48793f28af589520c5d302605090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/34bd48793f28af589520c5d302605090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/7f5a0bf1a26dff44cf8c2b99c6f13baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/7f5a0bf1a26dff44cf8c2b99c6f13baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/d4d6efb2d6b9718d49fb1f34be863818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/d4d6efb2d6b9718d49fb1f34be863818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/ed47399c8ddb262ded7f66a807e453d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/ed47399c8ddb262ded7f66a807e453d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/8bf945059f3f3a816fac8c8948c5203e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/8bf945059f3f3a816fac8c8948c5203e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/3f0a2545e13e4d987585fc7f68edbf79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/3f0a2545e13e4d987585fc7f68edbf79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/345719cf0717660c769429476417149b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/345719cf0717660c769429476417149b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/2e561032aabdc45c1ab900b76f62df5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/2e561032aabdc45c1ab900b76f62df5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/c6cb4529a529824ef89d606e824d484a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/c6cb4529a529824ef89d606e824d484a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5b03597ccc931b8137208de27b76145b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5b03597ccc931b8137208de27b76145b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/885794fc6e034c27c33966698ab11155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/885794fc6e034c27c33966698ab11155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/f92349ea7888d13fb6ed0b82faec7dce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/f92349ea7888d13fb6ed0b82faec7dce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/dc5a7ccdb3fd754efa471142e40ef013/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/dc5a7ccdb3fd754efa471142e40ef013/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/049766cb8879a9a38e68c02fb3419971/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/049766cb8879a9a38e68c02fb3419971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/1d02907559e04336cf7cf75eac14bc40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/1d02907559e04336cf7cf75eac14bc40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/19ca1f18c60dbb669fc10a437af451ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/19ca1f18c60dbb669fc10a437af451ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/025fc8760a0ed1ea2ce54e40e89bc1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/025fc8760a0ed1ea2ce54e40e89bc1a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5fc6a93e645e8376e31239fc64d2a301/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/5fc6a93e645e8376e31239fc64d2a301/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/d774ee75604f971f4069d1612a00531f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/d774ee75604f971f4069d1612a00531f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/8ead8f9152b441031b313612c18a7ecf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/8ead8f9152b441031b313612c18a7ecf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/2d359c134c256d9a39a75de41f7aee89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/2d359c134c256d9a39a75de41f7aee89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/25af8ea4d9b5a5b9e0fb16a4cb350417/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gilangramadhan/.gradle/caches/transforms-2/files-2.1/25af8ea4d9b5a5b9e0fb16a4cb350417/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		ADDED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\Dicoding\DicodingMade\a14-made-labs4\02.Notification\CustomNotif\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gilangramadhan/Documents/ProjectAndroid/dicoding/a14-made-labs5/02.Notification/CustomNotif/app/src/main/AndroidManifest.xml
