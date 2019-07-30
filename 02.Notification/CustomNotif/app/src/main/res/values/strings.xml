@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">CustomNotif</string>
-    <string name="text_show_notif">Testing Notif With Replay</string>
+    <string name="text_show_notif">Testing Notif With Reply</string>
     <string name="notif_action_reply">Reply Notif</string>
     <string name="notif_title">New Notification</string>
     <string name="notif_content">Ada notif baru</string>
