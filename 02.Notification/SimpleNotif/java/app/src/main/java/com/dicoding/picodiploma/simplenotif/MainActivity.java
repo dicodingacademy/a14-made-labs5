@@ -16,9 +16,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-    public static final int NOTIFICATION_ID = 1;
-    public static final String CHANNEL_ID = "channel_01";
-    public static final CharSequence CHANNEL_NAME = "dicoding channel";
+    private static final int NOTIFICATION_ID = 1;
+    private static final String CHANNEL_ID = "channel_01";
+    private static final CharSequence CHANNEL_NAME = "dicoding channel";
 
     private NotificationCompat.Builder mBuilder;
     public NotificationManager mNotificationManager;
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //menjalankan aksi setelah delay berakhir
-    private Runnable runnable = new Runnable() {
+    private final Runnable runnable = new Runnable() {
         @Override
         public void run() {
             mNotificationManager.notify(NOTIFICATION_ID, mBuilder.build());
