@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private int idNotification = 0;
     private static final int MAX_NOTIFICATION = 2;
 
-    private List<NotificationItem> stackNotif = new ArrayList<>();
+    private final List<NotificationItem> stackNotif = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

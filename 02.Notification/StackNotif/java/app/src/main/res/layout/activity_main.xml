@@ -1,6 +1,5 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center|top"
@@ -12,7 +11,7 @@
         android:id="@+id/edtSender"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:layout_margin="16dp"
         android:ems="20"
         android:hint="@string/hintSender"
         android:textAlignment="center" />
@@ -21,7 +20,7 @@
         android:id="@+id/edtMessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:layout_margin="16dp"
         android:ems="20"
         android:hint="@string/hintMessage"
         android:textAlignment="center" />
@@ -31,7 +30,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/colorAccent"
-        android:padding="@dimen/activity_horizontal_margin"
+        android:padding="16dp"
         android:text="@string/sendNotif"
         android:textColor="@android:color/white" />
 </LinearLayout>
