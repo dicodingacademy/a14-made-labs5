@@ -6,7 +6,7 @@
     android:gravity="center|top"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context="com.dicoding.picodiploma.stackbundle.MainActivity">
+    tools:context=".MainActivity">
 
     <EditText
         android:id="@+id/edtSender"

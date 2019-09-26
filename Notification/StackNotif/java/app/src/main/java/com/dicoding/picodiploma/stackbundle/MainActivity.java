@@ -23,15 +23,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+    private EditText edtSender;
+    private EditText edtMessage;
+
+    private int idNotification = 0;
+    private final List<NotificationItem> stackNotif = new ArrayList<>();
+
     private static final CharSequence CHANNEL_NAME = "dicoding channel";
     private final static String GROUP_KEY_EMAILS = "group_key_emails";
     private final static int NOTIFICATION_REQUEST_CODE = 200;
-    private EditText edtSender;
-    private EditText edtMessage;
-    private int idNotification = 0;
     private static final int MAX_NOTIFICATION = 2;
-
-    private final List<NotificationItem> stackNotif = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
