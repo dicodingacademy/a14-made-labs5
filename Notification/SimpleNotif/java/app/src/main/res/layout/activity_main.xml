@@ -5,14 +5,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <Button
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:layout_gravity="center"
-        android:background="@color/colorAccent"
-        android:onClick="sendNotification"
-        android:text="@string/send_notif"
-        android:textColor="@android:color/white" />
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Hello World" />
 
 </RelativeLayout>
