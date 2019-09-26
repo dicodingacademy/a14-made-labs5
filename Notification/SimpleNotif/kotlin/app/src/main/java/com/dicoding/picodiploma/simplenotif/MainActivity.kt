@@ -2,45 +2,28 @@ package com.dicoding.picodiploma.simplenotif
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
-import android.app.PendingIntent
 import android.content.Context
-import android.content.Intent
 import android.graphics.BitmapFactory
-import android.net.Uri
 import android.os.Build
 import android.os.Bundle
-import android.os.Handler
-import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.NotificationCompat
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var mBuilder: NotificationCompat.Builder
-    private var mNotificationManager: NotificationManager? = null
-
-    //menjalankan aksi setelah delay berakhir
-    private val runnable = Runnable { mNotificationManager?.notify(NOTIFICATION_ID, mBuilder.build()) }
-
     companion object {
-        private const val NOTIFICATION_ID = 1
-        private const val CHANNEL_ID = "channel_01"
-        private val CHANNEL_NAME: CharSequence = "dicoding channel"
+        val NOTIFICATION_ID = 1
+        var CHANNEL_ID = "channel_01"
+        var CHANNEL_NAME: CharSequence = "dicoding channel"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-    }
-
-    //aksi untuk onClick pada button
-    fun sendNotification(view:View) {
-        val intent = Intent(Intent.ACTION_VIEW, Uri.parse("http://dicoding.com"))
-        val pendingIntent = PendingIntent.getActivity(this, 0, intent, 0)
 
         val mNotificationManager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
-        mBuilder = NotificationCompat.Builder(this, CHANNEL_ID)
-                .setContentIntent(pendingIntent)
+
+        val mBuilder = NotificationCompat.Builder(this, CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_notifications_white_48px)
                 .setLargeIcon(BitmapFactory.decodeResource(resources, R.drawable.ic_notifications_white_48px))
                 .setContentTitle(resources.getString(R.string.content_title))
@@ -53,8 +36,9 @@ class MainActivity : AppCompatActivity() {
         */
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 
-            /* Create or update. */
-            val channel = NotificationChannel(CHANNEL_ID, CHANNEL_NAME, NotificationManager.IMPORTANCE_DEFAULT)
+            val channel = NotificationChannel(CHANNEL_ID,
+                    CHANNEL_NAME,
+                    NotificationManager.IMPORTANCE_DEFAULT)
 
             mBuilder.setChannelId(CHANNEL_ID)
 
@@ -64,8 +48,5 @@ class MainActivity : AppCompatActivity() {
         val notification = mBuilder.build()
 
         mNotificationManager.notify(NOTIFICATION_ID, notification)
-
-        //untuk menjalankan delay
-        Handler().postDelayed(runnable, 5000)
     }
 }
