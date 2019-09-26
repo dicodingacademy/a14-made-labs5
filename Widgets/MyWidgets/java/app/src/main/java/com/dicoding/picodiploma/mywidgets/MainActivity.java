@@ -49,13 +49,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         JobInfo.Builder builder = new JobInfo.Builder(JOB_ID, mServiceComponent);
         builder.setRequiredNetworkType(JobInfo.NETWORK_TYPE_NONE);
-//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
-//            builder.setMinimumLatency(SCHEDULE_OF_PERIOD);
-//        } else {
-//            builder.setPeriodic(SCHEDULE_OF_PERIOD);
-//        }
+
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
-            builder.setPeriodic(900000); //15 menit
+            builder.setPeriodic(900000L); //15 menit
         } else {
             builder.setPeriodic(SCHEDULE_OF_PERIOD); //3 menit
         }
