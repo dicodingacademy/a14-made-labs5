@@ -16,6 +16,20 @@ import kotlinx.android.synthetic.main.activity_reply.*
 
 class ReplyActivity : AppCompatActivity() {
 
+    companion object {
+
+        private const val KEY_MESSAGE_ID = "key_message_id"
+        private const val KEY_NOTIFY_ID = "key_notify_id"
+
+        fun getReplyMessageIntent(context: Context, notifyId: Int, messageId: Int): Intent {
+            val intent = Intent(context, ReplyActivity::class.java)
+            intent.action = REPLY_ACTION
+            intent.putExtra(KEY_MESSAGE_ID, messageId)
+            intent.putExtra(KEY_NOTIFY_ID, notifyId)
+            return intent
+        }
+    }
+
     private var mMessageId: Int = 0
     private var mNotifyId: Int = 0
     
@@ -72,20 +86,6 @@ class ReplyActivity : AppCompatActivity() {
         val notification = builder.build()
 
         notificationManagerCompat.notify(notifyId, notification)
-    }
-
-    companion object {
-
-        private const val KEY_MESSAGE_ID = "key_message_id"
-        private const val KEY_NOTIFY_ID = "key_notify_id"
-
-        fun getReplyMessageIntent(context: Context, notifyId: Int, messageId: Int): Intent {
-            val intent = Intent(context, ReplyActivity::class.java)
-            intent.action = REPLY_ACTION
-            intent.putExtra(KEY_MESSAGE_ID, messageId)
-            intent.putExtra(KEY_NOTIFY_ID, notifyId)
-            return intent
-        }
     }
 }
 

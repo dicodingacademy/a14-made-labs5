@@ -10,11 +10,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        button_show_notification.setOnClickListener { showNotification() }
-    }
-
-    private fun showNotification() {
-        startService(Intent(this, NotificationService::class.java))
+        button_show_notification.setOnClickListener {
+            startService(Intent(this, NotificationService::class.java))
+        }
     }
 }
 

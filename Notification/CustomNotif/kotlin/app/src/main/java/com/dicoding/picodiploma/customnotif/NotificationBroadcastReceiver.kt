@@ -17,6 +17,18 @@ import com.dicoding.picodiploma.customnotif.NotificationService.Companion.REPLY_
  */
 
 class NotificationBroadcastReceiver : BroadcastReceiver() {
+    companion object {
+        private const val KEY_NOTIFICATION_ID = "key_notification_id"
+        private const val KEY_MESSAGE_ID = "key_message_id"
+
+        fun getReplyMessageIntent(context: Context, notificationId: Int, messageId: Int): Intent {
+            val intent = Intent(context, NotificationBroadcastReceiver::class.java)
+            intent.action = REPLY_ACTION
+            intent.putExtra(KEY_NOTIFICATION_ID, notificationId)
+            intent.putExtra(KEY_MESSAGE_ID, messageId)
+            return intent
+        }
+    }
 
     override fun onReceive(context: Context, intent: Intent) {
         if (REPLY_ACTION == intent.action) {
@@ -59,19 +71,6 @@ class NotificationBroadcastReceiver : BroadcastReceiver() {
         val notification = mBuilder.build()
 
         mNotificationManager.notify(notifyId, notification)
-    }
-
-    companion object {
-        private const val KEY_NOTIFICATION_ID = "key_notification_id"
-        private const val KEY_MESSAGE_ID = "key_message_id"
-
-        fun getReplyMessageIntent(context: Context, notificationId: Int, messageId: Int): Intent {
-            val intent = Intent(context, NotificationBroadcastReceiver::class.java)
-            intent.action = REPLY_ACTION
-            intent.putExtra(KEY_NOTIFICATION_ID, notificationId)
-            intent.putExtra(KEY_MESSAGE_ID, messageId)
-            return intent
-        }
     }
 }
 

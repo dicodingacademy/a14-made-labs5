@@ -16,21 +16,20 @@ import androidx.core.app.RemoteInput
 
 class NotificationService : IntentService("NotificationService") {
 
+    companion object {
+        private const val KEY_REPLY = "key_reply_message"
+        const val REPLY_ACTION = "com.dicoding.notification.directreply.REPLY_ACTION"
+        const val CHANNEL_ID = "channel_01"
+        val CHANNEL_NAME: CharSequence = "dicoding channel"
+
+        fun getReplyMessage(intent: Intent): CharSequence? {
+            val remoteInput = RemoteInput.getResultsFromIntent(intent)
+            return remoteInput?.getCharSequence(KEY_REPLY)
+        }
+    }
+
     private var mNotificationId: Int = 0
     private var mMessageId: Int = 0
-
-    private val replyPendingIntent: PendingIntent
-        get() {
-            val intent: Intent
-            return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
-                intent = NotificationBroadcastReceiver.getReplyMessageIntent(this, mNotificationId, mMessageId)
-                PendingIntent.getBroadcast(applicationContext, 100, intent, PendingIntent.FLAG_UPDATE_CURRENT)
-            } else {
-                intent = ReplyActivity.getReplyMessageIntent(this, mNotificationId, mMessageId)
-                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-                PendingIntent.getActivity(this, 100, intent, PendingIntent.FLAG_UPDATE_CURRENT)
-            }
-        }
 
     override fun onHandleIntent(intent: Intent?) {
         if (intent != null) {
@@ -50,7 +49,7 @@ class NotificationService : IntentService("NotificationService") {
                 .build()
 
         val replyAction = NotificationCompat.Action.Builder(
-                R.drawable.ic_reply_black_24px, replyLabel, replyPendingIntent)
+                R.drawable.ic_reply_black_24px, replyLabel, getReplyPendingIntent())
                 .addRemoteInput(remoteInput)
                 .setAllowGeneratedReplies(true)
                 .build()
@@ -85,15 +84,15 @@ class NotificationService : IntentService("NotificationService") {
         mNotificationManager.notify(mNotificationId, notification)
     }
 
-    companion object {
-        private const val KEY_REPLY = "key_reply_message"
-        const val REPLY_ACTION = "com.dicoding.notification.directreply.REPLY_ACTION"
-        const val CHANNEL_ID = "channel_01"
-        val CHANNEL_NAME: CharSequence = "dicoding channel"
-
-        fun getReplyMessage(intent: Intent): CharSequence? {
-            val remoteInput = RemoteInput.getResultsFromIntent(intent)
-            return remoteInput?.getCharSequence(KEY_REPLY)
+    private fun getReplyPendingIntent(): PendingIntent {
+        val intent: Intent
+        return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+            intent = NotificationBroadcastReceiver.getReplyMessageIntent(this, mNotificationId, mMessageId)
+            PendingIntent.getBroadcast(applicationContext, 100, intent, PendingIntent.FLAG_UPDATE_CURRENT)
+        } else {
+            intent = ReplyActivity.getReplyMessageIntent(this, mNotificationId, mMessageId)
+            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            PendingIntent.getActivity(this, 100, intent, PendingIntent.FLAG_UPDATE_CURRENT)
         }
     }
 }

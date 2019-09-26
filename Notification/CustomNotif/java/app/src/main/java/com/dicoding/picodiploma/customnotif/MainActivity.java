@@ -16,13 +16,9 @@ public class MainActivity extends AppCompatActivity {
         buttonNotif.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                showNotification();
+                startService(new Intent(MainActivity.this, NotificationService.class));
             }
         });
-    }
-
-    private void showNotification() {
-        startService(new Intent(this, NotificationService.class));
     }
 }
 
