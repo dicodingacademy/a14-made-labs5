@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
             builder.setPeriodic(900000) //15 menit
         } else {
-            builder.setPeriodic(SCHEDULE_OF_PERIOD)
+            builder.setPeriodic(SCHEDULE_OF_PERIOD) //3 menit
         }
         val jobScheduler = getSystemService(Context.JOB_SCHEDULER_SERVICE) as JobScheduler
         jobScheduler.schedule(builder.build())
