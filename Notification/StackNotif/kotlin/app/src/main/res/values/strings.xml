@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StackBundle</string>
+    <string name="hintSender">Masukkan nama sender</string>
+    <string name="hintMessage">Masukkan message</string>
+    <string name="sendNotif">Kirim</string>
+</resources>

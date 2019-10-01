@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669373701523",
+    "firebase_url": "https://myfirebase-dicoding.firebaseio.com",
+    "project_id": "myfirebase-dicoding",
+    "storage_bucket": "myfirebase-dicoding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669373701523:android:5334f6599fd05834",
+        "android_client_info": {
+          "package_name": "com.dicoding.picodiploma.myfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669373701523-c7hdrcismd40ogjng2qpb8morr5domor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.picodiploma.myfirebasecloudmessaging",
+            "certificate_hash": "69068f7ae9dd006dcc5fa716784614983f0d77f3"
+          }
+        },
+        {
+          "client_id": "669373701523-fuu0gqti9mt3cfpgf6o3dvfc6n1blv21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8krwcO9ZOPHevDeWvD6W0BGzuUOhgeUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669373701523-fuu0gqti9mt3cfpgf6o3dvfc6n1blv21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
