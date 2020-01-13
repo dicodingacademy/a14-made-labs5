@@ -48,9 +48,9 @@ public class MainActivity extends AppCompatActivity {
 
             /* Create or update. */
             NotificationChannel channel = new NotificationChannel(CHANNEL_ID, CHANNEL_NAME, NotificationManager.IMPORTANCE_DEFAULT);
+            channel.setDescription(CHANNEL_NAME.toString());
 
             mBuilder.setChannelId(CHANNEL_ID);
-
             if (mNotificationManager != null) {
                 mNotificationManager.createNotificationChannel(channel);
             }

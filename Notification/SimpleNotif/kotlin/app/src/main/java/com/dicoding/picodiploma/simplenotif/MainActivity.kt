@@ -44,10 +44,12 @@ class MainActivity : AppCompatActivity() {
         /*
         Untuk android Oreo ke atas perlu menambahkan notification channel
         */
+
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 
             /* Create or update. */
             val channel = NotificationChannel(CHANNEL_ID, CHANNEL_NAME, NotificationManager.IMPORTANCE_DEFAULT)
+            channel.description = CHANNEL_NAME
 
             mBuilder.setChannelId(CHANNEL_ID)
 
