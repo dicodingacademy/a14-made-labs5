@@ -8,8 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name="com.dicoding.picodiploma.mywidgets.MainActivity">
+        android:theme="@style/Theme.MyWidgets">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="com.dicoding.picodiploma.mywidgets.RandomNumbersWidget">
+        <receiver android:name=".RandomNumbersWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
@@ -26,7 +26,7 @@
                 android:name="android.appwidget.provider"
                 android:resource="@xml/random_numbers_widget_info" />
         </receiver>
-        <service android:name="com.dicoding.picodiploma.mywidgets.UpdateWidgetService"
+        <service android:name=".UpdateWidgetService"
             android:enabled="true"
             android:exported="true"
             android:permission="android.permission.BIND_JOB_SERVICE"/>

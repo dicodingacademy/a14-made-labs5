@@ -12,6 +12,7 @@
         android:id="@+id/btn_start"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="8dp"
         android:layout_weight="1"
         android:text="@string/start_update" />
 
@@ -19,6 +20,8 @@
         android:id="@+id/btn_stop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        style="?android:attr/buttonBarButtonStyle"
         android:layout_weight="1"
         android:text="@string/stop_update" />
 

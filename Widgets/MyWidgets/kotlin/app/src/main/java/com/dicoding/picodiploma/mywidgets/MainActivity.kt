@@ -6,12 +6,11 @@ import android.content.ComponentName
 import android.content.Context
 import android.os.Build
 import android.os.Bundle
-import android.view.View
+import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity(), View.OnClickListener {
+class MainActivity : AppCompatActivity(){
 
     companion object {
         private const val JOB_ID = 100
@@ -22,16 +21,11 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        btn_start.setOnClickListener(this)
-        btn_stop.setOnClickListener(this)
-    }
+        val btnStart = findViewById<Button>(R.id.btn_start)
+        val btnStop = findViewById<Button>(R.id.btn_stop)
 
-    override fun onClick(view: View) {
-        when (view.id) {
-            R.id.btn_start -> startJob()
-
-            R.id.btn_stop -> cancelJob()
-        }
+        btnStart.setOnClickListener { startJob() }
+        btnStop.setOnClickListener { cancelJob() }
     }
 
     private fun startJob() {
