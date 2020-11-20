@@ -1,14 +1,15 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#09C">
+    android:background="?attr/appWidgetBackgroundColor"
+    android:padding="@dimen/widget_margin"
+    android:theme="@style/ThemeOverlay.MyWidgets.AppWidgetContainer">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:background="@color/colorPrimaryDark"
         android:orientation="horizontal"
         android:padding="@dimen/widget_margin"
         android:weightSum="9">
@@ -40,7 +41,6 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="3"
-            android:background="@color/colorPrimary"
             android:text="@string/generate"
             android:textColor="@android:color/white" />
     </LinearLayout>

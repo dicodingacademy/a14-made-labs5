@@ -6,12 +6,12 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
-import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
 
     private static final int JOB_ID = 100;
     private static final int SCHEDULE_OF_PERIOD = 86000;
@@ -24,24 +24,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button btnStart = findViewById(R.id.btn_start);
         Button btnStop = findViewById(R.id.btn_stop);
 
-        btnStart.setOnClickListener(this);
-        btnStop.setOnClickListener(this);
-    }
-
-    @Override
-    public void onClick(View view) {
-        int id = view.getId();
-        switch (id) {
-            case R.id.btn_start:
-                startJob();
-                break;
-
-            case R.id.btn_stop:
-                cancelJob();
-                break;
-            default:
-                break;
-        }
+        btnStart.setOnClickListener(v -> startJob());
+        btnStop.setOnClickListener(v -> cancelJob());
     }
 
     private void startJob() {
