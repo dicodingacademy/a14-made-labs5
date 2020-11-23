@@ -6,13 +6,14 @@ import android.content.Context
 import android.content.Intent
 import android.os.Build
 import android.os.Bundle
+import android.widget.EditText
+import android.widget.ImageButton
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.NotificationCompat
 import com.dicoding.picodiploma.customnotif.NotificationService.Companion.CHANNEL_ID
 import com.dicoding.picodiploma.customnotif.NotificationService.Companion.CHANNEL_NAME
 import com.dicoding.picodiploma.customnotif.NotificationService.Companion.REPLY_ACTION
-import kotlinx.android.synthetic.main.activity_reply.*
 
 class ReplyActivity : AppCompatActivity() {
 
@@ -32,7 +33,9 @@ class ReplyActivity : AppCompatActivity() {
 
     private var mMessageId: Int = 0
     private var mNotifyId: Int = 0
-    
+
+    private lateinit var mEditReply: EditText
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_reply)
@@ -44,13 +47,16 @@ class ReplyActivity : AppCompatActivity() {
             mNotifyId = intent.getIntExtra(KEY_NOTIFY_ID, 0)
         }
 
-        button_send.setOnClickListener { sendMessage(mNotifyId, mMessageId) }
+        mEditReply = findViewById<EditText>(R.id.edit_reply)
+        val sendButton = findViewById<ImageButton>(R.id.button_send)
+
+        sendButton.setOnClickListener { sendMessage(mNotifyId, mMessageId) }
     }
 
     private fun sendMessage(notifyId: Int, messageId: Int) {
         updateNotification(notifyId)
 
-        val message = edit_reply.text.toString().trim { it <= ' ' }
+        val message = mEditReply.text.toString().trim { it <= ' ' }
         Toast.makeText(this, "Message ID: $messageId\nMessage: $message",
                 Toast.LENGTH_SHORT).show()
 

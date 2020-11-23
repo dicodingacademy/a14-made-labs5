@@ -1,8 +1,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/background"
     android:gravity="center"
+    android:background="@color/background"
     android:paddingLeft="16dp"
     android:paddingTop="45dp"
     android:paddingRight="16dp"
@@ -14,7 +14,8 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_toStartOf="@+id/button_send"
-        android:hint="@string/hint_reply" />
+        android:hint="@string/hint_reply"
+        android:inputType="textLongMessage" />
 
     <ImageButton
         android:id="@+id/button_send"

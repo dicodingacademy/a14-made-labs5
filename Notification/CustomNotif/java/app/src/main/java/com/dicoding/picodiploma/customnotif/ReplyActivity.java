@@ -7,8 +7,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
+
 import androidx.core.app.NotificationCompat;
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
@@ -51,20 +53,16 @@ public class ReplyActivity extends AppCompatActivity {
         mEditReply = findViewById(R.id.edit_reply);
         ImageButton sendButton = findViewById(R.id.button_send);
 
-        sendButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                sendMessage(mNotifyId, mMessageId);
-            }
-        });
+        sendButton.setOnClickListener(view ->
+                sendMessage(mNotifyId, mMessageId)
+        );
     }
 
     private void sendMessage(int notifyId, int messageId) {
         updateNotification(notifyId);
 
         String message = mEditReply.getText().toString().trim();
-        Toast.makeText(this, "Message ID: " + messageId + "\nMessage: " + message,
-                Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Message ID: " + messageId + "\nMessage: " + message, Toast.LENGTH_SHORT).show();
 
         finish();
     }
