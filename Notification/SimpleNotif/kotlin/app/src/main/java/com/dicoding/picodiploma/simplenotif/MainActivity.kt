@@ -9,7 +9,6 @@ import android.graphics.BitmapFactory
 import android.net.Uri
 import android.os.Build
 import android.os.Bundle
-import android.os.Handler
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.NotificationCompat
@@ -52,7 +51,6 @@ class MainActivity : AppCompatActivity() {
             channel.description = CHANNEL_NAME
 
             mBuilder.setChannelId(CHANNEL_ID)
-
             mNotificationManager.createNotificationChannel(channel)
         }
 

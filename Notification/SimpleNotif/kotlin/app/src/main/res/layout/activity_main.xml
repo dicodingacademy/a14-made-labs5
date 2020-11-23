@@ -12,7 +12,6 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:layout_gravity="center"
-        android:background="@color/colorAccent"
         android:onClick="sendNotification"
         android:text="@string/send_notif"
         android:textColor="@android:color/white" />
