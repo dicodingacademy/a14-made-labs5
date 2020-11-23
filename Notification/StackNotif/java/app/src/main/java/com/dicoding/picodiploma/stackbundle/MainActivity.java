@@ -1,6 +1,5 @@
 package com.dicoding.picodiploma.stackbundle;
 
-
 import android.app.Notification;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -13,7 +12,6 @@ import android.os.Build;
 import android.os.Bundle;
 import androidx.core.app.NotificationCompat;
 import androidx.appcompat.app.AppCompatActivity;
-import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
@@ -30,9 +28,10 @@ public class MainActivity extends AppCompatActivity {
     private final List<NotificationItem> stackNotif = new ArrayList<>();
 
     private static final CharSequence CHANNEL_NAME = "dicoding channel";
-    private final static String GROUP_KEY_EMAILS = "group_key_emails";
-    private final static int NOTIFICATION_REQUEST_CODE = 200;
+    private static final String GROUP_KEY_EMAILS = "group_key_emails";
+    private static final int NOTIFICATION_REQUEST_CODE = 200;
     private static final int MAX_NOTIFICATION = 2;
+    private static final String CHANNEL_ID = "channel_01";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,24 +42,21 @@ public class MainActivity extends AppCompatActivity {
         edtMessage = findViewById(R.id.edtMessage);
         Button btnSend = findViewById(R.id.btnSend);
 
-        btnSend.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                String sender = edtSender.getText().toString();
-                String message = edtMessage.getText().toString();
-                if (sender.isEmpty() || message.isEmpty()) {
-                    Toast.makeText(MainActivity.this, "Data harus diisi", Toast.LENGTH_SHORT).show();
-                } else {
-                    stackNotif.add(new NotificationItem(idNotification, sender, message));
-                    sendNotif();
-                    idNotification++;
-                    edtSender.setText("");
-                    edtMessage.setText("");
+        btnSend.setOnClickListener(view -> {
+            String sender = edtSender.getText().toString();
+            String message = edtMessage.getText().toString();
+            if (sender.isEmpty() || message.isEmpty()) {
+                Toast.makeText(MainActivity.this, "Data harus diisi", Toast.LENGTH_SHORT).show();
+            } else {
+                stackNotif.add(new NotificationItem(idNotification, sender, message));
+                sendNotif();
+                idNotification++;
+                edtSender.setText("");
+                edtMessage.setText("");
 
-                    //tutup keyboard ketika tombol diklik
-                    InputMethodManager methodManager = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
-                    methodManager.hideSoftInputFromWindow(edtMessage.getWindowToken(), 0);
-                }
+                //tutup keyboard ketika tombol diklik
+                InputMethodManager methodManager = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+                methodManager.hideSoftInputFromWindow(edtMessage.getWindowToken(), 0);
             }
         });
     }
@@ -81,7 +77,6 @@ public class MainActivity extends AppCompatActivity {
         NotificationCompat.Builder mBuilder;
 
         //Melakukan pengecekan jika idNotification lebih kecil dari Max Notif
-        String CHANNEL_ID = "channel_01";
         if (idNotification < MAX_NOTIFICATION) {
             mBuilder = new NotificationCompat.Builder(this, CHANNEL_ID)
                     .setContentTitle("New Email from " + stackNotif.get(idNotification).getSender())

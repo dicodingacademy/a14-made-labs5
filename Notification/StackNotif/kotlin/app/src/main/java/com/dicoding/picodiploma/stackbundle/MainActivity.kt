@@ -1,6 +1,5 @@
 package com.dicoding.picodiploma.stackbundle
 
-
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.app.PendingIntent
@@ -13,40 +12,43 @@ import android.view.inputmethod.InputMethodManager
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.NotificationCompat
-import kotlinx.android.synthetic.main.activity_main.*
+import com.dicoding.picodiploma.stackbundle.databinding.ActivityMainBinding
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-    private var idNotification = 0
-
-    private val stackNotif = ArrayList<NotificationItem>()
 
     companion object {
         private const val CHANNEL_NAME = "dicoding channel"
         private const val GROUP_KEY_EMAILS = "group_key_emails"
         private const val NOTIFICATION_REQUEST_CODE = 200
         private const val MAX_NOTIFICATION = 2
+        private const val CHANNEL_ID = "channel_01"
     }
+
+    private var idNotification = 0
+    private val stackNotif = ArrayList<NotificationItem>()
+    private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        btnSend.setOnClickListener {
-            val sender = edtSender.text.toString()
-            val message = edtMessage.text.toString()
+        binding.btnSend.setOnClickListener {
+            val sender = binding.edtSender.text.toString()
+            val message = binding.edtMessage.text.toString()
             if (sender.isEmpty() || message.isEmpty()) {
                 Toast.makeText(this@MainActivity, "Data harus diisi", Toast.LENGTH_SHORT).show()
             } else {
                 stackNotif.add(NotificationItem(idNotification, sender, message))
                 sendNotif()
                 idNotification++
-                edtSender.setText("")
-                edtMessage.setText("")
+                binding.edtSender.setText("")
+                binding.edtMessage.setText("")
 
                 //tutup keyboard ketika tombol diklik
                 val methodManager = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
-                methodManager.hideSoftInputFromWindow(edtMessage.windowToken, 0)
+                methodManager.hideSoftInputFromWindow(binding.edtMessage.windowToken, 0)
             }
         }
     }
@@ -66,7 +68,6 @@ class MainActivity : AppCompatActivity() {
         val mBuilder: NotificationCompat.Builder
 
         //Melakukan pengecekan jika idNotification lebih kecil dari Max Notif
-        val CHANNEL_ID = "channel_01"
         if (idNotification < MAX_NOTIFICATION) {
             mBuilder = NotificationCompat.Builder(this, CHANNEL_ID)
                     .setContentTitle("New Email from " + stackNotif[idNotification].sender)
