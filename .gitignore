@@ -30,3 +30,7 @@ Notification/StackNotif/java/.idea/
 Notification/StackNotif/kotlin/.idea/
 
 FCM/MyFirebaseCloudMessaging/java/.idea/
+
+WebView/MyWebView/java/.idea/
+
+WebView/MyWebView/kotlin/.idea/
