@@ -26,10 +26,12 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Button logTokenButton = findViewById(R.id.btn_token);
-        logTokenButton.setOnClickListener(v -> FirebaseMessaging.getInstance().getToken().addOnSuccessListener(deviceToken -> {
-            String msg = getString(R.string.msg_token_fmt, deviceToken);
-            Toast.makeText(MainActivity.this, msg, Toast.LENGTH_SHORT).show();
-            Log.d(TAG, "Refreshed token: " + deviceToken);
-        }));
+        logTokenButton.setOnClickListener(v ->
+            FirebaseMessaging.getInstance().getToken().addOnSuccessListener(deviceToken -> {
+                String msg = getString(R.string.msg_token_fmt, deviceToken);
+                Toast.makeText(MainActivity.this, msg, Toast.LENGTH_SHORT).show();
+                Log.d(TAG, "Refreshed token: " + deviceToken);
+            })
+        );
     }
 }
