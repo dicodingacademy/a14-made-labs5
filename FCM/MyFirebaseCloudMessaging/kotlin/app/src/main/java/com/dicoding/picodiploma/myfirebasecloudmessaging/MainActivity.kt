@@ -2,11 +2,10 @@ package com.dicoding.picodiploma.myfirebasecloudmessaging
 
 import android.os.Bundle
 import android.util.Log
+import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.google.firebase.iid.FirebaseInstanceId
 import com.google.firebase.messaging.FirebaseMessaging
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -18,16 +17,21 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        btn_subscribe.setOnClickListener {
+        val subscribeButton = findViewById<Button>(R.id.btn_subscribe)
+        subscribeButton.setOnClickListener {
             FirebaseMessaging.getInstance().subscribeToTopic("news")
             val msg = getString(R.string.msg_subscribed)
             Log.d(TAG, msg)
             Toast.makeText(this@MainActivity, msg, Toast.LENGTH_SHORT).show()
         }
 
-        btn_token.setOnClickListener {
-            FirebaseInstanceId.getInstance().instanceId.addOnSuccessListener { instanceIdResult ->
-                val deviceToken = instanceIdResult.token
+        val logTokenButton = findViewById<Button>(R.id.btn_token)
+        logTokenButton.setOnClickListener {
+            val deviceToken = MyFirebaseMessagingService
+            val msg = getString(R.string.msg_token_fmt, deviceToken)
+            Toast.makeText(this@MainActivity, msg, Toast.LENGTH_SHORT).show()
+            Log.d(TAG, "Refreshed token: $deviceToken")
+            FirebaseMessaging.getInstance().token.addOnSuccessListener { deviceToken ->
                 val msg = getString(R.string.msg_token_fmt, deviceToken)
                 Toast.makeText(this@MainActivity, msg, Toast.LENGTH_SHORT).show()
                 Log.d(TAG, "Refreshed token: $deviceToken")
