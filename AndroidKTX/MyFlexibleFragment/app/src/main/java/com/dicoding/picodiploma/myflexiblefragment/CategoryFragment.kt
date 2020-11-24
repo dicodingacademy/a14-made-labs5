@@ -2,16 +2,13 @@ package com.dicoding.picodiploma.myflexiblefragment
 
 
 import android.os.Bundle
-import android.provider.Settings.Global.putString
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.core.os.bundleOf
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.commit
-import androidx.fragment.app.commitNow
 
 class CategoryFragment : Fragment(), View.OnClickListener {
 

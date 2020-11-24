@@ -9,7 +9,6 @@ import android.widget.Button
 import android.widget.RadioButton
 import android.widget.RadioGroup
 import androidx.fragment.app.DialogFragment
-import kotlinx.android.synthetic.main.fragment_option_dialog.*
 
 class OptionDialogFragment : DialogFragment(), View.OnClickListener {
 

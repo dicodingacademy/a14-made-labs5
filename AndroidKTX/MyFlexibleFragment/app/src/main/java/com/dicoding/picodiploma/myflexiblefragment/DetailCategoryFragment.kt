@@ -9,14 +9,13 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
-import kotlinx.android.synthetic.main.fragment_detail_category.*
 
 class DetailCategoryFragment : Fragment(), View.OnClickListener {
 
-    lateinit var tvCategoryName: TextView
-    lateinit var tvCategoryDescription: TextView
-    lateinit var btnProfile: Button
-    lateinit var btnShowDialog: Button
+    private lateinit var tvCategoryName: TextView
+    private lateinit var tvCategoryDescription: TextView
+    private lateinit var btnProfile: Button
+    private lateinit var btnShowDialog: Button
     var description: String? = null
 
     companion object {
@@ -32,12 +31,12 @@ class DetailCategoryFragment : Fragment(), View.OnClickListener {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        tvCategoryName = view.findViewById(R.id.tv_category_name);
-        tvCategoryDescription = view.findViewById(R.id.tv_category_description);
-        btnProfile = view.findViewById(R.id.btn_profile);
-        btnProfile.setOnClickListener(this);
-        btnShowDialog = view.findViewById(R.id.btn_show_dialog);
-        btnShowDialog.setOnClickListener(this);
+        tvCategoryName = view.findViewById(R.id.tv_category_name)
+        tvCategoryDescription = view.findViewById(R.id.tv_category_description)
+        btnProfile = view.findViewById(R.id.btn_profile)
+        btnProfile.setOnClickListener(this)
+        btnShowDialog = view.findViewById(R.id.btn_show_dialog)
+        btnShowDialog.setOnClickListener(this)
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
@@ -50,8 +49,8 @@ class DetailCategoryFragment : Fragment(), View.OnClickListener {
 
         if (arguments != null) {
             val categoryName = arguments?.getString(EXTRA_NAME)
-            tv_category_name.text = categoryName
-            tv_category_description.text = description
+            tvCategoryName.text = categoryName
+            tvCategoryDescription.text = description
         }
     }
 
