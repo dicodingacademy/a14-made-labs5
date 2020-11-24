@@ -3,20 +3,18 @@ package com.dicoding.picodiploma.mymediaplayer;
 import android.content.ComponentName;
 import android.content.Intent;
 import android.content.ServiceConnection;
+import android.os.Bundle;
 import android.os.IBinder;
 import android.os.Message;
 import android.os.Messenger;
 import android.os.RemoteException;
-import androidx.appcompat.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
     private final String TAG = MainActivity.class.getSimpleName();
-    private Button btnPlay;
-    private Button btnStop;
     private Messenger mService = null;
 
     private Intent mBoundServiceIntent;
@@ -27,10 +25,32 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btnPlay = findViewById(R.id.btn_play);
-        btnStop = findViewById(R.id.btn_stop);
-        btnPlay.setOnClickListener(this);
-        btnStop.setOnClickListener(this);
+        Button btnPlay = findViewById(R.id.btn_play);
+        Button btnStop = findViewById(R.id.btn_stop);
+        btnPlay.setOnClickListener(v -> {
+             /*
+                Untuk mengirim perintah play
+                 */
+            if (mServiceBound) {
+                try {
+                    mService.send(Message.obtain(null, MediaService.PLAY, 0, 0));
+                } catch (RemoteException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        btnStop.setOnClickListener(v -> {
+            /*
+                Untuk mengirim perintah stop
+                */
+            if (mServiceBound) {
+                try {
+                    mService.send(Message.obtain(null, MediaService.STOP, 0, 0));
+                } catch (RemoteException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
 
         /*
         Start service untuk media player
@@ -80,38 +100,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onPause() {
         super.onPause();
         Log.d(TAG, "onPause: ");
-    }
-
-    @Override
-    public void onClick(View view) {
-        int id = view.getId();
-        switch (id) {
-            case R.id.btn_play:
-                /*
-                Untuk mengirim perintah play
-                 */
-                if (!mServiceBound) return;
-                try {
-                    mService.send(Message.obtain(null, MediaService.PLAY, 0, 0));
-                } catch (RemoteException e) {
-                    e.printStackTrace();
-                }
-
-                break;
-            case R.id.btn_stop:
-                /*
-                Untuk mengirim perintah stop
-                */
-                if (!mServiceBound) return;
-                try {
-                    mService.send(Message.obtain(null, MediaService.STOP, 0, 0));
-                } catch (RemoteException e) {
-                    e.printStackTrace();
-                }
-                break;
-            default:
-                break;
-        }
     }
 
     /*

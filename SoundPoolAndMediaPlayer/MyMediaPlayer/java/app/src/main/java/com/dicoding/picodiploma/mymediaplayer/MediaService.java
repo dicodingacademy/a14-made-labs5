@@ -14,6 +14,7 @@ import android.media.MediaPlayer;
 import android.os.Build;
 import android.os.Handler;
 import android.os.IBinder;
+import android.os.Looper;
 import android.os.Message;
 import android.os.Messenger;
 import androidx.core.app.NotificationCompat;
@@ -228,6 +229,7 @@ public class MediaService extends Service implements MediaPlayerCallback {
         private final WeakReference<MediaPlayerCallback> mediaPlayerCallbackWeakReference;
 
         IncomingHandler(MediaPlayerCallback playerCallback) {
+            super(Looper.getMainLooper());
             this.mediaPlayerCallbackWeakReference = new WeakReference<>(playerCallback);
         }
 

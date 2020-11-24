@@ -199,7 +199,7 @@ class MediaService : Service(), MediaPlayerCallback {
      */
     private val mMessenger = Messenger(IncomingHandler(this))
 
-    internal class IncomingHandler(playerCallback: MediaPlayerCallback) : Handler() {
+    internal class IncomingHandler(playerCallback: MediaPlayerCallback) : Handler(Looper.getMainLooper()) {
 
         private val mediaPlayerCallbackWeakReference: WeakReference<MediaPlayerCallback> = WeakReference(playerCallback)
 
