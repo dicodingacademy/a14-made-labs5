@@ -2,9 +2,9 @@ package com.dicoding.picodiploma.mysound
 
 import android.media.SoundPool
 import android.os.Bundle
+import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -15,6 +15,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val btnSound = findViewById<Button>(R.id.btn_soundpool)
 
         sp = SoundPool.Builder()
                 .setMaxStreams(10)
@@ -36,7 +38,7 @@ class MainActivity : AppCompatActivity() {
          */
         soundId = sp.load(this, R.raw.clinking_glasses, 1) // in 2nd param u have to pass your desire ringtone
 
-        btn_soundpool.setOnClickListener {
+        btnSound.setOnClickListener {
             if (spLoaded) {
                 sp.play(soundId, 1f, 1f, 0, 0, 1f)
             }
