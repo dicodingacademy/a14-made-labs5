@@ -10,7 +10,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 
-class DetailCategoryFragment : Fragment(), View.OnClickListener {
+class DetailCategoryFragment : Fragment() {
 
     private lateinit var tvCategoryName: TextView
     private lateinit var tvCategoryDescription: TextView
@@ -34,9 +34,17 @@ class DetailCategoryFragment : Fragment(), View.OnClickListener {
         tvCategoryName = view.findViewById(R.id.tv_category_name)
         tvCategoryDescription = view.findViewById(R.id.tv_category_description)
         btnProfile = view.findViewById(R.id.btn_profile)
-        btnProfile.setOnClickListener(this)
+        btnProfile.setOnClickListener {
+            val mIntent = Intent(activity, ProfileActivity::class.java)
+            startActivity(mIntent)
+        }
         btnShowDialog = view.findViewById(R.id.btn_show_dialog)
-        btnShowDialog.setOnClickListener(this)
+        btnShowDialog.setOnClickListener {
+            val mOptionDialogFragment = OptionDialogFragment()
+
+            val mFragmentManager = childFragmentManager
+            mOptionDialogFragment.show(mFragmentManager, OptionDialogFragment::class.java.simpleName)
+        }
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
@@ -61,22 +69,6 @@ class DetailCategoryFragment : Fragment(), View.OnClickListener {
         super.onSaveInstanceState(outState)
 
         outState.putString(EXTRA_DESCRIPTION, description)
-    }
-
-    override fun onClick(v: View) {
-        when (v.id) {
-            R.id.btn_profile -> {
-                val mIntent = Intent(activity, ProfileActivity::class.java)
-                startActivity(mIntent)
-            }
-
-            R.id.btn_show_dialog -> {
-                val mOptionDialogFragment = OptionDialogFragment()
-
-                val mFragmentManager = childFragmentManager
-                mOptionDialogFragment.show(mFragmentManager, OptionDialogFragment::class.java.simpleName)
-            }
-        }
     }
 
     /*
