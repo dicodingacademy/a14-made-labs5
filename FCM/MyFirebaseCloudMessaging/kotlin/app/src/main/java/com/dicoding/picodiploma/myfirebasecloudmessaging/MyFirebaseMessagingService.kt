@@ -26,11 +26,11 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
     override fun onMessageReceived(remoteMessage: RemoteMessage) {
         super.onMessageReceived(remoteMessage)
         remoteMessage.notification?.let {
-            sendNotification(it.body)
+            sendNotification(it)
         }
     }
 
-    private fun sendNotification(messageBody: String?) {
+    private fun sendNotification(remoteMessage: RemoteMessage.Notification) {
         val channelId = getString(R.string.default_notification_channel_id)
         val channelName = getString(R.string.default_notification_channel_name)
 
@@ -42,7 +42,8 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
         val defaultSoundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION)
         val notificationBuilder = NotificationCompat.Builder(this, channelId)
                 .setSmallIcon(R.mipmap.ic_launcher)
-                .setContentText(messageBody)
+                .setContentTitle(remoteMessage.title)
+                .setContentText(remoteMessage.body)
                 .setAutoCancel(true)
                 .setSound(defaultSoundUri)
                 .setContentIntent(pendingIntent)

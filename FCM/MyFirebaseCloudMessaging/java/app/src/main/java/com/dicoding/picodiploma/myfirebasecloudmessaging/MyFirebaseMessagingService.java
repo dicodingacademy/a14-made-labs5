@@ -29,11 +29,11 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
     public void onMessageReceived(@NonNull RemoteMessage remoteMessage) {
         super.onMessageReceived(remoteMessage);
         if (remoteMessage.getNotification() != null) {
-            sendNotification(remoteMessage.getNotification().getBody());
+            sendNotification(remoteMessage.getNotification());
         }
     }
 
-    private void sendNotification(String messageBody) {
+    private void sendNotification(RemoteMessage.Notification remoteMessage) {
         String channelId  = getString(R.string.default_notification_channel_id);
         String channelName = getString(R.string.default_notification_channel_name);
 
@@ -46,7 +46,8 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         NotificationCompat.Builder notificationBuilder =
                 new NotificationCompat.Builder(this, channelId)
                         .setSmallIcon(R.mipmap.ic_launcher)
-                        .setContentText(messageBody)
+                        .setContentTitle(remoteMessage.getTitle())
+                        .setContentText(remoteMessage.getBody())
                         .setAutoCancel(true)
                         .setSound(defaultSoundUri)
                         .setContentIntent(pendingIntent);
