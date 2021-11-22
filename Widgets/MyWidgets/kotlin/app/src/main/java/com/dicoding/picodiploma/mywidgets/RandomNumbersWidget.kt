@@ -5,6 +5,7 @@ import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
 import android.content.Context
 import android.content.Intent
+import android.os.Build
 import android.widget.RemoteViews
 
 /**
@@ -56,7 +57,14 @@ class RandomNumbersWidget : AppWidgetProvider() {
         val intent = Intent(context, javaClass)
         intent.action = action
         intent.putExtra(WIDGET_ID_EXTRA, appWidgetId)
-        return PendingIntent.getBroadcast(context, appWidgetId, intent, 0)
+        return PendingIntent.getActivity(
+            context,
+            appWidgetId,
+            intent,
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M)
+            PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_MUTABLE
+            else 0
+        )
     }
 }
 

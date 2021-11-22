@@ -41,6 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="3"
+            android:backgroundTint="@color/teal_200"
             android:text="@string/generate"
             android:textColor="@android:color/white" />
     </LinearLayout>
